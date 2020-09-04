@@ -30,8 +30,8 @@
 28,Doubleday,0,Colson Whitehead,0385542364,0,9.78039E+12,2017-02-12,by Colson Whitehead,THE UNDERGROUND RAILROAD,16
 29,Ballantine,0,Jodi Picoult,034554496X,0,9.78035E+12,2017-02-12,by Jodi Picoult,SMALL GREAT THINGS,16
 30,Grand Central,0,Nicholas Sparks,1455520691,0,9.78146E+12,2017-02-05,by Nicholas Sparks,TWO BY TWO,16
-31,Harper,0,Harper Lee,62409875,0,9.78006E+12,2016-07-10,by Harper Lee,GO SET A WATCHMAN,16
-32,Morrow,0,AJ Finn,62678418,0,9.78006E+12,2018-05-06,by A.J. Finn,THE WOMAN IN THE WINDOW,15
+31,Harper,0,Harper Lee,0062409875,0,9.78006E+12,2016-07-10,by Harper Lee,GO SET A WATCHMAN,16
+32,Morrow,0,AJ Finn,0062678418,0,9.78006E+12,2018-05-06,by A.J. Finn,THE WOMAN IN THE WINDOW,15
 33,Scribner,0,Stephen King,1501175467,0,9.7815E+12,2017-12-10,by Stephen King,IT,15
 34,Grand Central,0,Nicholas Sparks,1455520608,0,9.78146E+12,2017-07-02,by Nicholas Sparks,SEE ME,15
 35,Grand Central,0,David Baldacci,0446573043,0,9.78045E+12,2013-05-05,by David Baldacci,THE FORGOTTEN,15
@@ -48,7 +48,7 @@
 46,Houghton Mifflin Harcourt,0,Yann Martel,0547416113,0,9.78055E+12,2013-04-07,by Yann Martel,LIFE OF PI,12
 47,Delacorte,0,Lee Child,0804178828,0,9.7808E+12,2017-06-18,by Lee Child,NIGHT SCHOOL,11
 48,Berkley,0,Nora Roberts,110198760X,0,9.7811E+12,2017-04-23,by Nora Roberts,THE OBSESSION,11
-49,Ecco/HarperCollins,0,Cynthia D'Aprix Sweeney,62414216,0,9.78006E+12,2016-06-19,by Cynthia D'Aprix Sweeney,THE NEST,11
+49,Ecco/HarperCollins,0,Cynthia D'Aprix Sweeney,0062414216,0,9.78006E+12,2016-06-19,by Cynthia D'Aprix Sweeney,THE NEST,11
 50,Grand Central,0,David Baldacci,1455586501,0,9.78146E+12,2017-04-09,by David Baldacci,NO MAN'S LAND,10
 51,"Little, Brown",0,James Patterson,031640716X,0,9.78032E+12,2017-03-26,by James Patterson,CROSS THE LINE,10
 52,Grand Central,0,David Baldacci,1455586439,0,9.78E+12,2016-04-17,by David Baldacci,THE GUILTY,10
@@ -110,7 +110,7 @@
 108,"Little, Brown",0,Elin Hilderbrand,0316375209,0,9.78032E+12,2017-08-06,by Elin Hilderbrand,THE IDENTICALS,6
 109,"Little, Brown",0,James Patterson and David Ellis,0316464147,0,9.78032E+12,2017-05-21,by James Patterson and David Ellis,THE BLACK BOOK,6
 110,Norton,0,Neil Gaiman,039360909X,0,9.78039E+12,2017-04-02,by Neil Gaiman,NORSE MYTHOLOGY,6
-111,HarperCollins,0,Paulo Coelho,62416219,0,9.78006E+12,2017-01-15,by Paulo Coelho,THE ALCHEMIST,6
+111,HarperCollins,0,Paulo Coelho,0062416219,0,9.78006E+12,2017-01-15,by Paulo Coelho,THE ALCHEMIST,6
 112,Harlequin,0,Nora Roberts,1459295366,0,9.78146E+12,2016-12-11,by Nora Roberts,UNFINISHED BUSINESS,6
 113,Dutton,0,Harlan Coben,0698411447,0,9.7807E+12,2016-11-13,by Harlan Coben,HOME,6
 114,Scribner,0,Stephen King,1501129740,0,9.7815E+12,2016-07-31,by Stephen King,END OF WATCH,6
@@ -140,7 +140,7 @@
 138,Putnam,0,John Sandford,None,0,9.7807E+12,2016-06-12,by John Sandford,EXTREME PREY,5
 139,Random House,0,Elizabeth Strout,0812989074,0,9.78E+12,2016-02-28,by Elizabeth Strout,MY NAME IS LUCY BARTON,5
 140,Morrow/HarperCollins,0,Karin Slaughter,006242906X,0,9.78E+12,2016-01-17,by Karin Slaughter,PRETTY GIRLS,5
-141,Harper/HarperCollins,0,Mitch Albom,62294415,0,9.78E+12,2016-01-10,by Mitch Albom,THE MAGIC STRINGS OF FRANKIE PRESTO,5
+141,Harper/HarperCollins,0,Mitch Albom,0062294415,0,9.78E+12,2016-01-10,by Mitch Albom,THE MAGIC STRINGS OF FRANKIE PRESTO,5
 142,Marian Wood/Putnam,0,Sue Grafton,110161434X,0,9.78E+12,2015-10-11,by Sue Grafton,X,5
 143,Morrow/HarperCollins,0,Patricia Cornwell,None,0,9.78E+12,2015-08-30,by Patricia Cornwell,FLESH AND BLOOD,5
 144,Random House Publishing,0,Debbie Macomber,0345535111,0,9.78E+12,2015-05-24,by Debbie Macomber,THE INN AT ROSE HARBOR,5
@@ -174,10 +174,10 @@
 172,Atria/Emily Bestler,0,Kyle Mills,1476783543,0,9.78148E+12,2017-10-15,by Kyle Mills,ENEMY OF THE STATE,4
 173,Marian Wood/Putnam,0,Sue Grafton,0399163859,0,9.7804E+12,2017-10-01,by Sue Grafton,Y IS FOR YESTERDAY,4
 174,Pocket Books,0,Stephen King,None,0,9.7815E+12,2017-08-27,by Stephen King,THE GUNSLINGER,4
-175,Harper,0,Daniel Silva,62354361,0,9.78006E+12,2017-08-20,by Daniel Silva,HOUSE OF SPIES,4
+175,Harper,0,Daniel Silva,0062354361,0,9.78006E+12,2017-08-20,by Daniel Silva,HOUSE OF SPIES,4
 176,St. Martin's,0,J D Robb,1250123135,0,9.78125E+12,2017-08-20,by J. D. Robb,ECHOES IN DEATH,4
 177,Atria/Emily Bestler,0,Brad Thor,1476789401,0,9.78148E+12,2017-08-06,by Brad Thor,USE OF FORCE,4
-178,Harper,0,Michael Crichton,62473352,0,9.78006E+12,2017-07-02,by Michael Crichton,DRAGON TEETH,4
+178,Harper,0,Michael Crichton,0062473352,0,9.78006E+12,2017-07-02,by Michael Crichton,DRAGON TEETH,4
 179,Morrow,0,Neil Gaiman,None,0,9.78006E+12,2017-06-11,by Neil Gaiman,AMERICAN GODS,4
 180,Dutton,0,Lisa Gardner,0698411439,0,9.7807E+12,2017-03-12,by Lisa Gardner,RIGHT BEHIND YOU,4
 181,Putnam,0,John Sandford,None,0,9.7807E+12,2016-11-27,by John Sandford,ESCAPE CLAUSE,4
@@ -211,7 +211,7 @@
 209,Barbara Freethy,0,Barbara Freethy,None,0,A00B004T3RQQK,2012-03-18,by Barbara Freethy,THE SWEETEST THING,4
 210,Random House Publishing,0,Sophie Kinsella,0440334861,0,9.78044E+12,2011-11-13,by Sophie Kinsella,CAN YOU KEEP A SECRET?,4
 211,Mira,0,Debbie Macomber,0778312518,0,9.78078E+12,2011-10-09,by Debbie Macomber,1105 YAKIMA STREET,4
-212,HarperCollins,0,J A Jance,61758221,0,9.78006E+12,2011-09-11,by J. A. Jance,UNTIL PROVEN GUILTY,4
+212,HarperCollins,0,J A Jance,0061758221,0,9.78006E+12,2011-09-11,by J. A. Jance,UNTIL PROVEN GUILTY,4
 213,Simon & Schuster,0,Brad Thor,1416586768,0,9.78142E+12,2011-09-04,by Brad Thor,FULL BLACK,4
 214,"Little, Brown",0,James Patterson and Neil McMahon,0316097373,0,9.78032E+12,2011-04-24,by James Patterson and Neil McMahon,TOYS,4
 215,Random House,0,Lisa Gardner,0553901133,0,9.78055E+12,2011-03-20,by Lisa Gardner,ALONE,4
@@ -232,7 +232,7 @@
 230,Scout,0,Ruth Ware,1501156004,0,9.7815E+12,2017-08-27,by Ruth Ware,THE LYING GAME,3
 231,Putnam,0,Clive Cussler and Graham Brown,0399184015,0,9.7804E+12,2017-07-02,by Clive Cussler and Graham Brown,NIGHTHAWK,3
 232,Bantam,0,Janet Evanovich and Phoef Sutton,0553392697,0,9.78055E+12,2017-06-18,by Janet Evanovich and Phoef Sutton,CURIOUS MINDS,3
-233,Morrow/HarperCollins,0,Greg Iles,62311158,0,9.78006E+12,2017-04-23,by Greg Iles,MISSISSIPPI BLOOD,3
+233,Morrow/HarperCollins,0,Greg Iles,0062311158,0,9.78006E+12,2017-04-23,by Greg Iles,MISSISSIPPI BLOOD,3
 234,Zebra,0,Lisa Jackson,1420136070,0,9.78142E+12,2017-04-02,by Lisa Jackson,EXPECTING TO DIE,3
 235,Washington Square,0,Fredrik Backman,1501115073,0,9.7815E+12,2017-03-12,by Fredrik Backman,MY GRANDMOTHER ASKED ME TO TELL YOU SHE'S SORRY,3
 236,Ballantine,0,J P Delaney,0425285057,0,9.78043E+12,2017-02-26,by J P Delaney,THE GIRL BEFORE,3
@@ -253,8 +253,8 @@
 251,Roc,0,Jim Butcher,None,0,9.78E+12,2014-06-29,by Jim Butcher,SKIN GAME,3
 252,Bantam,0,Janet Evanovich and Lee Goldberg,None,0,9.78E+12,2014-03-30,by Janet Evanovich and Lee Goldberg,THE CHASE,3
 253,Helen Cooper,0,J S Cooper and Helen Cooper,None,0,9.78E+12,2014-03-09,by J. S. Cooper and Helen Cooper,THE EX GAMES,3
-254,HarperCollins,0,Joyce Maynard,61957658,0,9.78E+12,2014-02-23,by Joyce Maynard,LABOR DAY,3
-255,Ecco/HarperCollins,0,Amy Tan,62107313,0,9.78E+12,2013-12-08,by Amy Tan,THE VALLEY OF AMAZEMENT,3
+254,HarperCollins,0,Joyce Maynard,0061957658,0,9.78E+12,2014-02-23,by Joyce Maynard,LABOR DAY,3
+255,Ecco/HarperCollins,0,Amy Tan,0062107313,0,9.78E+12,2013-12-08,by Amy Tan,THE VALLEY OF AMAZEMENT,3
 256,Gail McHugh,0,Gail McHugh,None,0,A00B00DULA3B2,2013-08-11,by Gail McHugh,PULSE,3
 257,Putnam,0,Catherine Coulter,None,0,9.78E+12,2013-08-11,by Catherine Coulter,BOMBSHELL,3
 258,Hard Case Crime,0,Stephen King,1781162646,0,9.78E+12,2013-07-07,by Stephen King,JOYLAND,3
@@ -274,7 +274,7 @@
 272,"Little, Brown & Company",0,Michael Connelly,None,0,9.78032E+12,2011-10-30,by Michael Connelly,SUICIDE RUN,3
 273,Penguin Group,0,Stuart Woods,None,0,9.7811E+12,2011-02-27,by Stuart Woods,STRATEGIC MOVES,3
 274,Delacorte,0,Danielle Steel,1101884037,0,9.7811E+12,2018-06-09,by Danielle Steel,THE CAST,2
-275,Morrow,0,Dorothea Benton Frank,62390821,0,9.78006E+12,2018-06-09,by Dorothea Benton Frank,BY INVITATION ONLY,2
+275,Morrow,0,Dorothea Benton Frank,0062390821,0,9.78006E+12,2018-06-09,by Dorothea Benton Frank,BY INVITATION ONLY,2
 276,Zebra,0,Lisa Jackson and Nancy Bush,1420136135,0,9.78142E+12,2018-05-20,by Lisa Jackson and Nancy Bush,ONE LAST BREATH,2
 277,Putnam,0,Stuart Woods,073521722X,0,9.78074E+12,2018-05-06,by Stuart Woods,SHOOT FIRST,2
 278,Putnam,0,CJ Box,0399176624,0,9.7804E+12,2018-04-22,by C.J. Box,THE DISAPPEARED,2
@@ -284,7 +284,7 @@
 282,Delacorte,0,Danielle Steel,1101884002,0,9.7811E+12,2018-02-18,by Danielle Steel,FALL FROM GRACE,2
 283,Berkley,0,Christine Feehan,0451488512,0,9.78045E+12,2018-02-18,by Christine Feehan,JUDGMENT ROAD,2
 284,Grand Central,0,Douglas Preston and Lincoln Child,145553692X,0,9.78146E+12,2018-02-11,by Douglas Preston and Lincoln Child,CITY OF ENDLESS NIGHT,2
-285,Morrow,0,Karin Slaughter,62430262,0,9.78006E+12,2018-01-14,by Karin Slaughter,THE GOOD DAUGHTER,2
+285,Morrow,0,Karin Slaughter,0062430262,0,9.78006E+12,2018-01-14,by Karin Slaughter,THE GOOD DAUGHTER,2
 286,Bantam,0,Dean Koontz,0345546784,0,9.78035E+12,2017-12-03,by Dean Koontz,THE SILENT CORNER,2
 287,Putnam,0,Clive Cussler and Boyd Morrison,039957557X,0,9.7804E+12,2017-12-03,by Clive Cussler and Boyd Morrison,TYPHOON FURY,2
 288,Simon & Schuster,0,Mary Higgins Clark and Alafair Burke,150117164X,0,9.7815E+12,2017-12-03,by Mary Higgins Clark and Alafair Burke,EVERY BREATH YOU TAKE,2
@@ -294,7 +294,7 @@
 292,Minotaur,0,Louise Penny,1250066190,0,9.78125E+12,2017-09-24,by Louise Penny,GLASS HOUSES,2
 293,Delacorte,0,Danielle Steel,0345531086,0,9.78035E+12,2017-07-23,by Danielle Steel,THE DUCHESS,2
 294,Putnam,0,Mike Maden,0735215863,0,9.78074E+12,2017-07-09,by Mike Maden,TOM CLANCY: POINT OF CONTACT,2
-295,Morrow,0,Dorothea Benton Frank,62390783,0,9.78006E+12,2017-06-11,by Dorothea Benton Frank,"SAME BEACH, NEXT YEAR",2
+295,Morrow,0,Dorothea Benton Frank,0062390783,0,9.78006E+12,2017-06-11,by Dorothea Benton Frank,"SAME BEACH, NEXT YEAR",2
 296,Delacorte,0,Danielle Steel,110188391X,0,9.7811E+12,2017-05-28,by Danielle Steel,AGAINST ALL ODDS,2
 297,St. Martin's,0,Lisa Scottoline,1250099587,0,9.78125E+12,2017-05-07,by Lisa Scottoline,ONE PERFECT LIE,2
 298,HQN,0,Linda Lael Miller,037378970X,0,9.78037E+12,2017-04-16,by Linda Lael Miller,FOREVER A HERO,2
@@ -335,7 +335,7 @@
 333,Knopf,0,Anne Rice,0307962520,0,9.78E+12,2014-11-23,by Anne Rice,PRINCE LESTAT,2
 334,Putnam,0,Clive Cussler,None,0,9.78E+12,2014-11-23,by Clive Cussler,HAVANA STORM,2
 335,Knopf,0,Haruki Murakami,0385352107,0,9.78E+12,2014-09-07,by Haruki Murakami,COLORLESS TSUKURU TAZAKI AND HIS YEARS OF PILGRIMAGE,2
-336,Morrow/HarperCollins,0,Hazel Gaynor,62316877,0,9.78E+12,2014-06-15,by Hazel Gaynor,THE GIRL WHO CAME HOME,2
+336,Morrow/HarperCollins,0,Hazel Gaynor,0062316877,0,9.78E+12,2014-06-15,by Hazel Gaynor,THE GIRL WHO CAME HOME,2
 337,St. Martin's,0,Jeffrey Archer,None,0,9.78E+12,2014-04-06,by Jeffrey Archer,BE CAREFUL WHAT YOU WISH FOR,2
 338,Tor/Tom Doherty,0,Brandon Sanderson,None,0,9.78E+12,2014-03-30,by Brandon Sanderson,WORDS OF RADIANCE,2
 339,Morrow/HarperCollins,0,Diane Mott Davidson,None,0,9.78E+12,2014-03-23,by Diane Mott Davidson,THE WHOLE ENCHILADA,2
@@ -388,7 +388,7 @@
 386,Susan Stoker,0,Susan Stoker,None,0,A00B076PHNYRQ,2018-05-27,by Susan Stoker,RESCUING WENDY,1
 387,Berkley,0,Mary Balogh,0399586091,0,9.7804E+12,2018-05-20,by Mary Balogh,SOMEONE TO CARE,1
 388,Ace,0,Faith Hunter,1101991437,0,9.7811E+12,2018-05-20,by Faith Hunter,DARK QUEEN,1
-389,Harper,0,Aimee Molloy,62696815,0,9.78006E+12,2018-05-20,by Aimee Molloy,THE PERFECT MOTHER,1
+389,Harper,0,Aimee Molloy,0062696815,0,9.78006E+12,2018-05-20,by Aimee Molloy,THE PERFECT MOTHER,1
 390,Putnam,0,Ace Atkins,0698413075,0,9.7807E+12,2018-05-20,by Ace Atkins,ROBERT B. PARKER'S OLD BLACK MAGIC,1
 391,Delacorte,0,Lee Child,0440339340,0,9.78044E+12,2018-05-20,by Lee Child,WORTH DYING FOR,1
 392,St. Martin's,0,Iris Johansen,1466887249,0,9.78147E+12,2018-05-13,by Iris Johansen,SHATTERED MIRROR,1
@@ -396,18 +396,18 @@
 394,Oak Press,0,Bella Andre and Jennifer Skully,1945253436,0,9.78195E+12,2018-05-13,by Bella Andre and Jennifer Skully,WILD IN LOVE,1
 395,Anchor,0,Kevin Kwan,0345803787,0,9.78035E+12,2018-05-13,by Kevin Kwan,CRAZY RICH ASIANS,1
 396,MIRA,0,Ron Carr,1488023557,0,9.78149E+12,2018-05-06,by Robyn Carr,THE FAMILY GATHERING,1
-397,Morrow,0,Christopher Moore,62433970,0,9.78006E+12,2018-05-06,by Christopher Moore,NOIR,1
+397,Morrow,0,Christopher Moore,0062433970,0,9.78006E+12,2018-05-06,by Christopher Moore,NOIR,1
 398,Atria,0,Lisa Jewell,1501154664,0,9.7815E+12,2018-05-06,by Lisa Jewell,THEN SHE WAS GONE,1
 399,Ballantine,0,JR Ward,None,0,9.7807E+12,2018-04-29,by J.R. Ward,THE THIEF,1
 400,Gallery,0,Catherine Coulter and JT Ellison,1501138219,0,9.7815E+12,2018-04-29,by Catherine Coulter and J.T. Ellison,THE SIXTH DAY,1
 401,Grand Central,0,Jeffery Deaver,1455536415,0,9.78146E+12,2018-04-29,by Jeffery Deaver,THE CUTTING EDGE,1
 402,"Little, Brown",0,Madeline Miller,0316556343,0,9.78032E+12,2018-04-29,by Madeline Miller,CIRCE,1
 403,C. Scott,0,Vi Keeland and Penelope Ward,1942215835,0,9.78194E+12,2018-04-29,by Vi Keeland and Penelope Ward,REBEL HEIR,1
-404,Harper,0,Anne Hillerman,62391941,0,9.78006E+12,2018-04-22,by Anne Hillerman,CAVE OF BONES,1
+404,Harper,0,Anne Hillerman,0062391941,0,9.78006E+12,2018-04-22,by Anne Hillerman,CAVE OF BONES,1
 405,Riverhead,0,Meg Wolitzer,0525533222,0,9.78053E+12,2018-04-22,by Meg Wolitzer,THE FEMALE PERSUASION,1
 406,Del Rey,0,Kevin Hearne,0345548558,0,9.78035E+12,2018-04-22,by Kevin Hearne,SCOURGED,1
-407,Harper,0,Jacqueline Winspear,62436651,0,9.78006E+12,2018-04-15,by Jacqueline Winspear,TO DIE BUT ONCE,1
-408,Avon,0,Lynsay Sands,62468871,0,9.78006E+12,2018-04-15,by Lynsay Sands,TWICE BITTEN,1
+407,Harper,0,Jacqueline Winspear,0062436651,0,9.78006E+12,2018-04-15,by Jacqueline Winspear,TO DIE BUT ONCE,1
+408,Avon,0,Lynsay Sands,0062468871,0,9.78006E+12,2018-04-15,by Lynsay Sands,TWICE BITTEN,1
 409,Red Dress,0,Meghan March,1943796068,0,9.78194E+12,2018-04-15,by Meghan March,SAVAGE PRINCE,1
 410,Viking,0,Elizabeth George,069841165X,0,9.7807E+12,2018-04-08,by Elizabeth George,THE PUNISHMENT SHE DESERVES,1
 411,Minotaur,0,Steve Berry,1250140234,0,9.78125E+12,2018-04-08,by Steve Berry,THE BISHOP'S PAWN,1
@@ -420,7 +420,7 @@
 418,Del Rey,0,Jason Fry,1524797111,0,9.78152E+12,2018-03-25,by Jason Fry,STAR WARS: THE LAST JEDI,1
 419,Morrow,0,Linda Howard,006241903X,0,9.78006E+12,2018-03-25,by Linda Howard,THE WOMAN LEFT BEHIND,1
 420,Delacorte,0,Karen Marie Moning,0399593675,0,9.7804E+12,2018-03-25,by Karen Marie Moning,HIGH VOLTAGE,1
-421,Avon,0,Lisa Kleypas,62371894,0,9.78006E+12,2018-03-18,by Lisa Kleypas,HELLO STRANGER,1
+421,Avon,0,Lisa Kleypas,0062371894,0,9.78006E+12,2018-03-18,by Lisa Kleypas,HELLO STRANGER,1
 422,HQN,0,Marie Force,1488079021,0,9.78149E+12,2018-03-18,by Marie Force,FATAL CHAOS,1
 423,Kensington,0,Joanne Fluke,1617732257,0,9.78162E+12,2018-03-18,by Joanne Fluke,RASPBERRY DANISH MURDER,1
 424,BAAE,0,Corinne Michaels,1942834225,0,9.78194E+12,2018-03-18,by Corinne Michaels,ONE LAST TIME,1
@@ -434,7 +434,7 @@
 432,Tyndale House,0,Francine Rivers,149640792X,0,9.7815E+12,2018-02-25,by Francine Rivers,THE MASTERPIECE,1
 433,Zebra,0,Kat Martin,1420143174,0,9.78142E+12,2018-02-18,by Kat Martin,BEYOND DANGER,1
 434,Delacorte,0,Alan Bradley,0345540018,0,9.78035E+12,2018-02-18,by Alan Bradley,THE GRAVE'S A FINE AND PRIVATE PLACE,1
-435,Avon,0,Jill Shalvis,62741810,0,9.78006E+12,2018-02-11,by Jill Shalvis,ABOUT THAT KISS,1
+435,Avon,0,Jill Shalvis,0062741810,0,9.78006E+12,2018-02-11,by Jill Shalvis,ABOUT THAT KISS,1
 436,MIRA,0,Susan Mallery,1488023689,0,9.78149E+12,2018-02-11,by Susan Mallery,SISTERS LIKE US,1
 437,Ballantine,0,Karen Cleveland,1524797030,0,9.78152E+12,2018-02-11,by Karen Cleveland,NEED TO KNOW,1
 438,Del Rey,0,Pierce Brown,0425285928,0,9.78043E+12,2018-02-04,by Pierce Brown,IRON GOLD,1
@@ -449,7 +449,7 @@
 447,Scribner,0,Jesmyn Ward,1501126067,0,9.7815E+12,2018-01-21,by Jesmyn Ward,"SING, UNBURIED, SING",1
 448,Putnam,0,Robert Crais,0399573909,0,9.7804E+12,2018-01-14,by Robert Crais,THE WANTED,1
 449,Waterhouse,0,Helen Hardt,None,0,9.78194E+12,2018-01-14,by Helen Hardt,TWISTED,1
-450,Morrow,0,Kate Quinn,62654209,0,9.78006E+12,2018-01-14,by Kate Quinn,THE ALICE NETWORK,1
+450,Morrow,0,Kate Quinn,0062654209,0,9.78006E+12,2018-01-14,by Kate Quinn,THE ALICE NETWORK,1
 451,Morrow,0,James Rollins,006238175X,0,9.78006E+12,2017-12-24,by James Rollins,THE DEMON CROWN,1
 452,Orbit,0,James S A Corey,0316332828,0,9.78032E+12,2017-12-24,by James S. A. Corey,PERSEPOLIS RISING,1
 453,Delacorte,0,Danielle Steel,1101883979,0,9.7811E+12,2017-12-17,by Danielle Steel,PAST PERFECT,1
@@ -461,7 +461,7 @@
 459,Simon & Schuster,0,Richard Paul Evans,1501172034,0,9.7815E+12,2017-11-26,by Richard Paul Evans,THE NOEL DIARY,1
 460,Kristen Ashley,0,Kristen Ashley,None,0,A00B075H2S93B,2017-11-26,by Kristen Ashley,COMPLICATED,1
 461,Howard Books,0,Karen Kingsbury,1451687621,0,9.78145E+12,2017-11-26,by Karen Kingsbury,IN THIS MOMENT,1
-462,Avon,0,Eloisa James,62389483,0,9.78006E+12,2017-11-19,by Eloisa James,WILDE IN LOVE,1
+462,Avon,0,Eloisa James,0062389483,0,9.78006E+12,2017-11-19,by Eloisa James,WILDE IN LOVE,1
 463,Flatiron Books,0,Mark Frost,1250163307,0,9.78125E+12,2017-11-19,by Mark Frost,TWIN PEAKS: THE FINAL DOSSIER,1
 464,HQN,0,Diana Palmer,0373803729,0,9.78037E+12,2017-11-19,by Diana Palmer,WYOMING WINTER,1
 465,Putnam,0,Stuart Woods,0735217165,0,9.78074E+12,2017-11-12,by Stuart Woods,QUICK & DIRTY,1
@@ -474,7 +474,7 @@
 472,HQN,0,Susan Mallery,None,0,9.78149E+12,2017-10-15,by  Susan Mallery,SECOND CHANCE GIRL,1
 473,HQN,0,RaeAnne Thayne,0373803680,0,9.78037E+12,2017-10-15,by RaeAnne Thayne,SUGAR PINE TRAIL,1
 474,Berkley,0,Nalini Singh,0451488253,0,9.78045E+12,2017-10-15,by Nalini Singh,ARCHANGEL'S VIPER,1
-475,Avon,0,Lynsay Sands,62468863,0,9.78006E+12,2017-10-15,by Lynsay Sands,IMMORTALLY YOURS,1
+475,Avon,0,Lynsay Sands,0062468863,0,9.78006E+12,2017-10-15,by Lynsay Sands,IMMORTALLY YOURS,1
 476,Putnam,0,Jan Karon,0399183736,0,9.7804E+12,2017-10-08,by Jan Karon,TO BE WHERE YOU ARE,1
 477,Mira,0,Heather Graham,1460398858,0,9.78146E+12,2017-10-08,by Heather Graham,WICKED DEEDS,1
 478,Atria/Keywords,0,Gabbie Hanna,1501178326,0,9.7815E+12,2017-10-08,by Gabbie Hanna,ADULTOLESCENCE,1
@@ -484,11 +484,11 @@
 482,Atria/Emily Bestler,0,Vince Flynn,1501180800,0,9.7815E+12,2017-10-01,by Vince Flynn,AMERICAN ASSASSIN,1
 483,Berkley,0,Christine Feehan,None,0,9.7804E+12,2017-09-24,by Christine Feehan,DARK LEGACY,1
 484,Viking,0,Craig Johnson,0698157540,0,9.7807E+12,2017-09-24,by Craig Johnson,THE WESTERN STAR,1
-485,Morrow,0,J A Jance,62657569,0,9.78006E+12,2017-09-24,by J. A. Jance,PROOF OF LIFE,1
+485,Morrow,0,J A Jance,0062657569,0,9.78006E+12,2017-09-24,by J. A. Jance,PROOF OF LIFE,1
 486,Waterhouse,0,Helen Hardt,None,0,9.78194E+12,2017-09-17,by Helen Hardt,SHATTERED,1
 487,Riverhead,0,Gabriel Tallent,0735211191,0,9.78074E+12,2017-09-17,by Gabriel Tallent,MY ABSOLUTE DARLING,1
 488,HQN,0,Susan Mallery,1488028443,0,9.78149E+12,2017-09-10,by Susan Mallery,YOU SAY IT FIRST,1
-489,Avon,0,Tessa Dare,62349074,0,9.78006E+12,2017-09-10,by Tessa Dare,THE DUCHESS DEAL,1
+489,Avon,0,Tessa Dare,0062349074,0,9.78006E+12,2017-09-10,by Tessa Dare,THE DUCHESS DEAL,1
 490,Penelope Ward,0,Penelope Ward,1942215665,0,9.78194E+12,2017-09-10,by Penelope Ward,DRUNK DIAL,1
 491,Ballantine,0,Tess Gerritsen,0345543890,0,9.78035E+12,2017-09-03,by Tess Gerritsen,I KNOW A SECRET,1
 492,St. Martin's,0,Lisa Scottoline,1250099730,0,9.78125E+12,2017-09-03,by Lisa Scottoline,EXPOSED,1
@@ -499,7 +499,7 @@
 497,Touchstone,0,Philippa Gregory,1476758786,0,9.78148E+12,2017-08-27,by Philippa Gregory,THE LAST TUDOR,1
 498,BookShots,0,James Patterson with Maxine Paetro,0316504831,0,9.78032E+12,2017-08-20,by James Patterson with Maxine Paetro,THE MEDICAL EXAMINER,1
 499,Ballantine,0,Jonathan Kellerman and Jesse Kellerman,0399594612,0,9.7804E+12,2017-08-20,by Jonathan Kellerman and Jesse Kellerman,CRIME SCENE,1
-500,Avon,0,Ilona Andrews,62289284,0,9.78006E+12,2017-08-13,by Ilona Andrews,WILDFIRE,1
+500,Avon,0,Ilona Andrews,0062289284,0,9.78006E+12,2017-08-13,by Ilona Andrews,WILDFIRE,1
 501,Minotaur,0,C J Box,None,0,9.78147E+12,2017-08-13,by C J. Box,PARADISE VALLEY,1
 502,Grand Central,0,James Patterson and others,1478971630,0,9.78148E+12,2017-08-13,by James Patterson and others,THE MOORES ARE MISSING,1
 503,Zebra,0,"Lisa Jackson, Nancy Bush and Rosalind Noonan",1420137891,0,9.78142E+12,2017-08-13,"by Lisa Jackson, Nancy Bush and Rosalind Noonan",OMINOUS,1
@@ -517,19 +517,19 @@
 515,Zebra,0,Fern Michaels,142014068X,0,9.78142E+12,2017-07-16,by Fern Michaels,HIGH STAKES,1
 516,Random House,0,ï»¿Imbolo Mbue,0525509712,0,9.78053E+12,2017-07-16,by ï»¿Imbolo Mbue,BEHOLD THE DREAMERS,1
 517,HQN,0,RaeAnne Thayne,037379939X,0,9.78037E+12,2017-07-16,by RaeAnne Thayne,SERENITY HARBOR,1
-518,Avon,0,Sarah MacLean,62379461,0,9.78006E+12,2017-07-16,by Sarah MacLean,THE DAY OF THE DUCHESS,1
+518,Avon,0,Sarah MacLean,0062379461,0,9.78006E+12,2017-07-16,by Sarah MacLean,THE DAY OF THE DUCHESS,1
 519,Bantam,0,Janet Evanovich,0553392751,0,9.78055E+12,2017-07-09,by Janet Evanovich,DANGEROUS MINDS,1
 520,Gallery Books,0,Mary Alice Monroe,1501125516,0,9.7815E+12,2017-07-09,by Mary Alice Monroe,BEACH HOUSE FOR RENT,1
-521,Harper,0,Adriana Trigiani,62319221,0,9.78006E+12,2017-07-09,by Adriana Trigiani,KISS CARLO,1
-522,Morrow,0,Don Winslow,62664425,0,9.78006E+12,2017-07-09,by Don Winslow,THE FORCE,1
+521,Harper,0,Adriana Trigiani,0062319221,0,9.78006E+12,2017-07-09,by Adriana Trigiani,KISS CARLO,1
+522,Morrow,0,Don Winslow,0062664425,0,9.78006E+12,2017-07-09,by Don Winslow,THE FORCE,1
 523,Berkley,0,Nalini Singh,1101987812,0,9.7811E+12,2017-07-02,by Nalini Singh,SILVER SILENCE,1
 524,Putnam,0,Stuart Woods,0735217130,0,9.78074E+12,2017-06-25,by Stuart Woods,INDECENT EXPOSURE,1
 525,Howard,0,Karen Kingsbury,1451687591,0,9.78145E+12,2017-06-25,by Karen Kingsbury,LOVE STORY,1
 526,Berkley,0,Christine Feehan,None,0,9.7804E+12,2017-06-18,by Christine Feehan,SHADOW REAPER,1
-527,Avon,0,Julia Quinn,62388185,0,9.78006E+12,2017-06-18,by Julia Quinn,THE GIRL WITH THE MAKE-BELIEVE HUSBAND,1
-528,Avon,0,Ilona Andrews,62289268,0,9.78006E+12,2017-06-18,by Ilona Andrews,WHITE HOT,1
+527,Avon,0,Julia Quinn,0062388185,0,9.78006E+12,2017-06-18,by Julia Quinn,THE GIRL WITH THE MAKE-BELIEVE HUSBAND,1
+528,Avon,0,Ilona Andrews,0062289268,0,9.78006E+12,2017-06-18,by Ilona Andrews,WHITE HOT,1
 529,Mira,0,Heather Graham,0778330222,0,9.78078E+12,2017-06-18,by Heather Graham,DYING BREATH,1
-530,Avon,0,Maya Banks,62410199,0,9.78006E+12,2017-06-11,by Maya Banks,JUST ONE TOUCH,1
+530,Avon,0,Maya Banks,0062410199,0,9.78006E+12,2017-06-11,by Maya Banks,JUST ONE TOUCH,1
 531,Waterhouse,0,Helen Hardt,None,0,A00B01L9WY8PU,2017-06-04,by Helen Hardt,SURRENDER,1
 532,Cemetery Dance,0,Stephen King and Richard Chizmar,None,0,A00B06XC9VTBV,2017-06-04,by Stephen King and Richard Chizmar,GWENDY'S BUTTON BOX,1
 533,Grand Central,0,Scott Turow,1455553522,0,9.78146E+12,2017-06-04,by Scott Turow,TESTIMONY,1
@@ -537,7 +537,7 @@
 535,Penelope Sky,0,Penelope Sky,None,0,A00B01MSJEQRO,2017-06-04,by Penelope Sky,BUTTONS AND PAIN,1
 536,Knopf,0,Jo Nesbo,0385352174,0,9.78039E+12,2017-05-28,by Jo Nesbo,THE THIRST,1
 537,Del Rey,0,Robin Hobb,0553392972,0,9.78055E+12,2017-05-28,by Robin Hobb,ASSASSIN'S FATE,1
-538,Ecco/HarperCollins,0,Dennis Lehane,62129406,0,9.78006E+12,2017-05-28,by Dennis Lehane,SINCE WE FELL,1
+538,Ecco/HarperCollins,0,Dennis Lehane,0062129406,0,9.78006E+12,2017-05-28,by Dennis Lehane,SINCE WE FELL,1
 539,Berkley,0,Amanda Quick,0698193628,0,9.7807E+12,2017-05-28,by Amanda Quick,THE GIRL WHO KNEW TOO MUCH,1
 540,BookShots,0,James Patterson,0316469742,0,9.78032E+12,2017-05-21,by James Patterson,DETECTIVE CROSS,1
 541,BookShots,0,James Patterson and Jassy Mackenzie,0316438839,0,9.78032E+12,2017-05-21,by James Patterson and Jassy Mackenzie,PRIVATE: GOLD,1
@@ -552,45 +552,45 @@
 550,Grand Central,0,Jeffery Deaver,1455536393,0,9.78146E+12,2017-04-30,by Jeffery Deaver,THE BURIAL HOUR,1
 551,Del Rey,0,Timothy Zahn,0345511271,0,9.78035E+12,2017-04-30,by Timothy Zahn,THRAWN,1
 552,EverAfter Romance,0,Vi Keeland and Penelope Ward,1942215584,0,9.78194E+12,2017-04-30,by Vi Keeland and Penelope Ward,MISTER MONEYBAGS,1
-553,Harper,0,Anne Hillerman,62391895,0,9.78006E+12,2017-04-30,by Anne Hillerman,SONG OF THE LION,1
+553,Harper,0,Anne Hillerman,0062391895,0,9.78006E+12,2017-04-30,by Anne Hillerman,SONG OF THE LION,1
 554,Ballantine,0,J R Ward,0698192982,0,9.7807E+12,2017-04-23,by J. R. Ward,THE CHOSEN,1
 555,St. Martin's,0,Steve Berry,1466862629,0,9.78147E+12,2017-04-23,by Steve Berry,THE LOST ORDER,1
 556,Atlantic Monthly,0,Donna Leon,0802189458,0,9.7808E+12,2017-04-23,by Donna Leon,EARTHLY REMAINS,1
 557,Ampersand,0,Kristen Pro,1633500233,0,9.78163E+12,2017-04-23,by Kristen Proby,EASY MAGIC,1
-558,Avon,0,Lynsay Sands,62468855,0,9.78006E+12,2017-04-16,by Lynsay Sands,IMMORTAL UNCHAINED,1
+558,Avon,0,Lynsay Sands,0062468855,0,9.78006E+12,2017-04-16,by Lynsay Sands,IMMORTAL UNCHAINED,1
 559,EverAfter Romance,0,Corinne Michaels,1942834217,0,9.78194E+12,2017-04-16,by Corinne Michaels,SAY I'M YOURS,1
 560,Berkley,0,Christine Feehan,0399583947,0,9.7804E+12,2017-04-09,by Christine Feehan,BOUND TOGETHER,1
 561,Ballantine,0,Debbie Macomber,0553391976,0,9.78055E+12,2017-04-09,by Debbie Macomber,IF NOT FOR YOU,1
 562,Touchstone,0,J A Jance,1501110810,0,9.7815E+12,2017-04-09,by J. A. Jance,MAN OVERBOARD,1
 563,Gallery Books,0,Catherine Coulter and J T Ellison,1501150359,0,9.7815E+12,2017-04-02,by Catherine Coulter and J. T. Ellison,THE DEVIL'S TRIANGLE,1
 564,Putnam,0,Clive Cussler and Justin Scott,0399575618,0,9.7804E+12,2017-04-02,by Clive Cussler and Justin Scott,THE CUTTHROAT,1
-565,Harper/HarperCollins,0,Jacqueline Winspear,62436619,0,9.78006E+12,2017-04-02,by Jacqueline Winspear,IN THIS GRAVE HOUR,1
+565,Harper/HarperCollins,0,Jacqueline Winspear,0062436619,0,9.78006E+12,2017-04-02,by Jacqueline Winspear,IN THIS GRAVE HOUR,1
 566,Tyndale House,0,Joel C Rosenberg,None,0,9.7815E+12,2017-04-02,by Joel C. Rosenberg,WITHOUT WARNING,1
 567,Ace,0,Patricia Briggs,0698195817,0,9.7807E+12,2017-03-26,by Patricia Briggs,SILENCE FALLEN,1
 568,Berkley,0,Maya Banks,0698176197,0,9.7807E+12,2017-03-26,by Maya Banks,BRIGHTER THAN THE SUN,1
 569,ROC,0,Anne Bishop,0698190459,0,9.7807E+12,2017-03-26,by Anne Bishop,ETCHED IN BONE,1
 570,St. Martin's,0,Allison Brennan,1250105277,0,9.78125E+12,2017-03-26,by Allison Brennan,MAKE THEM PAY,1
-571,Avon,0,Jeaniene Frost,62075853,0,9.78006E+12,2017-03-19,by Jeaniene Frost,INTO THE FIRE,1
-572,Morrow,0,Faye Kellerman,62425250,0,9.78006E+12,2017-03-19,by Faye Kellerman,BONE BOX,1
+571,Avon,0,Jeaniene Frost,0062075853,0,9.78006E+12,2017-03-19,by Jeaniene Frost,INTO THE FIRE,1
+572,Morrow,0,Faye Kellerman,0062425250,0,9.78006E+12,2017-03-19,by Faye Kellerman,BONE BOX,1
 573,Mira,0,Susan Mallery,146039643X,0,9.78146E+12,2017-03-19,by Susan Mallery,A MILLION LITTLE THINGS,1
 574,EverAfter Romance,0,Tijan,None,0,A00B06XBVL7Q2,2017-03-19,by Tijan,COLE,1
 575,Kensington,0,Joanne Fluke,1617732214,0,9.78162E+12,2017-03-19,by Joanne Fluke,BANANA CREAM PIE MURDER,1
 576,Valkyrie,0,Kresley Cole,0997215186,0,9.781E+12,2017-03-19,by Kresley Cole,SHADOW'S SEDUCTION,1
-577,Avon,0,Lisa Kleypas,62371908,0,9.78006E+12,2017-03-12,by Lisa Kleypas,DEVIL IN SPRING,1
+577,Avon,0,Lisa Kleypas,0062371908,0,9.78006E+12,2017-03-12,by Lisa Kleypas,DEVIL IN SPRING,1
 578,Del Rey,0,Chuck Wendig,1101966963,0,9.7811E+12,2017-03-12,by Chuck Wendig,AFTERMATH:: EMPIRE'S END,1
 579,Mira,0,Pam Jenoff,0778319814,0,9.78078E+12,2017-03-12,by Pam Jenoff,THE ORPHAN'S TALE,1
 580,Waterhouse Press,0,Helen Hardt,None,0,A00B01LBPLEG6,2017-03-05,by Helen Hardt,BURN,1
 581,Berkley,0,Mark Greaney,0698406850,0,9.7807E+12,2017-03-05,by Mark Greaney,GUNMETAL GRAY,1
 582,Jove,0,Mary Balogh,0698411390,0,9.7807E+12,2017-02-26,by Mary Balogh,SOMEONE TO HOLD,1
 583,Dial,0,Sophie Kinsella,0812998278,0,9.78081E+12,2017-02-26,by Sophie Kinsella,MY NOT SO PERFECT LIFE,1
-584,Avon,0,Eloisa James,62389467,0,9.78006E+12,2017-02-19,by Eloisa James,SEVEN MINUTES IN HEAVEN,1
+584,Avon,0,Eloisa James,0062389467,0,9.78006E+12,2017-02-19,by Eloisa James,SEVEN MINUTES IN HEAVEN,1
 585,Golden Unicorn Enterprises,0,J S Scott,1939962676,0,9.78194E+12,2017-02-19,by J. S. Scott,BILLIONAIRE UNKNOWN,1
 586,Berkley,0,Jodi Picoult,None,0,9.7811E+12,2017-02-19,by Jodi Picoult,PICTURE PERFECT,1
-587,Avon,0,Lynsay Sands,62273620,0,9.78006E+12,2017-02-19,by Lynsay Sands,FALLING FOR THE HIGHLANDER,1
+587,Avon,0,Lynsay Sands,0062273620,0,9.78006E+12,2017-02-19,by Lynsay Sands,FALLING FOR THE HIGHLANDER,1
 588,Zebra,0,Kat Martin,1420139053,0,9.78142E+12,2017-02-19,by Kat Martin,INTO THE FIRESTORM,1
 589,Berkley,0,Christine Feehan,None,0,9.7804E+12,2017-02-12,by Christine Feehan,POWER GAME,1
 590,genreCrave,0,Gwynn White and various authors,None,0,A00B01MCYGPQM,2017-02-12,by Gwynn White and various authors,DARK HUMANITY,1
-591,Avon,0,Jill Shalvis,62448072,0,9.78006E+12,2017-02-12,by Jill Shalvis,ACCIDENTALLY ON PURPOSE,1
+591,Avon,0,Jill Shalvis,0062448072,0,9.78006E+12,2017-02-12,by Jill Shalvis,ACCIDENTALLY ON PURPOSE,1
 592,Delacorte,0,Karen Marie Moning,0425284360,0,9.78043E+12,2017-02-05,by Karen Marie Moning,FEVERSONG,1
 593,EverAfter Romance,0,Vi Keeland,1942215568,0,9.78194E+12,2017-02-05,by Vi Keeland,EGOMANIAC,1
 594,Romig Works,0,Aleatha Romig,0996839445,0,9.781E+12,2017-02-05,by Aleatha Romig,FIDELITY,1
@@ -602,10 +602,10 @@
 600,Henry Holt,0,Ian McGuire,1627795952,0,9.78163E+12,2017-01-22,by Ian McGuire,THE NORTH WATER,1
 601,Zebra,0,Fern Michaels,None,0,9.78142E+12,2017-01-15,by Fern Michaels,CRASH AND BURN,1
 602,Waterhouse,0,Helen Hardt,None,0,A00B01HFPDRI4,2017-01-08,by Helen Hardt,MELT,1
-603,Morrow/HarperCollins,0,James Rollins,62381709,0,9.78006E+12,2017-01-01,by James Rollins,THE SEVENTH PLAGUE,1
+603,Morrow/HarperCollins,0,James Rollins,0062381709,0,9.78006E+12,2017-01-01,by James Rollins,THE SEVENTH PLAGUE,1
 604,Ballantine,0,J R Ward,0698193288,0,9.7807E+12,2016-12-25,by J. R. Ward,BLOOD VOW,1
 605,Knopf,0,Anne Rice,0385353790,0,9.78039E+12,2016-12-18,by Anne Rice,PRINCE LESTAT AND THE REALMS OF ATLANTIS,1
-606,Harper,0,Bernard Cornwell,62250825,0,9.78006E+12,2016-12-18,by Bernard Cornwell,THE FLAME BEARER,1
+606,Harper,0,Bernard Cornwell,0062250825,0,9.78006E+12,2016-12-18,by Bernard Cornwell,THE FLAME BEARER,1
 607,Random House,0,Fannie Flagg,140006595X,0,9.7814E+12,2016-12-18,by Fannie Flagg,THE WHOLE TOWN'S TALKING,1
 608,Del Rey,0,James Luceno,0345511492,0,9.78035E+12,2016-12-04,by James Luceno,CATALYST,1
 609,Simon & Schuster,0,Richard Paul Evans,1501119818,0,9.7815E+12,2016-12-04,by Richard Paul Evans,THE MISTLETOE SECRET,1
@@ -637,31 +637,31 @@
 635,Kensington,0,Joanne Fluke,161773229X,0,9.78162E+12,2016-10-16,by Joanne Fluke,CHRISTMAS CARAMEL MURDER,1
 636,Mira,0,Ron Carr,1460395956,0,9.78146E+12,2016-10-16,by Robyn Carr,THE LIFE SHE WANTS,1
 637,Ace,0,Ilona Andrews,None,0,9.7807E+12,2016-10-09,by Ilona Andrews,MAGIC BINDS,1
-638,Avon/HarperCollins,0,Lynsay Sands,62316079,0,9.78006E+12,2016-10-09,by Lynsay Sands,IMMORTAL NIGHTS,1
+638,Avon/HarperCollins,0,Lynsay Sands,0062316079,0,9.78006E+12,2016-10-09,by Lynsay Sands,IMMORTAL NIGHTS,1
 639,Random House,0,Alan Bradley,0345539982,0,9.78035E+12,2016-10-09,by Alan Bradley,THRICE THE BRINDED CAT HATH MEW'D,1
 640,Putnam,0,Amy Tan,None,0,9.7811E+12,2016-10-09,by Amy Tan,THE BONESETTER'S DAUGHTER,1
 641,Viking,0,Craig Johnson,None,0,9.7807E+12,2016-10-02,by Craig Johnson,AN OBVIOUS FACT,1
 642,Lauren Blakely,0,Lauren Blakely,None,0,A00B01LYRXJ0I,2016-10-02,by Lauren Blakely,WELL HUNG,1
 643,Putnam,0,Reed Farrel Coleman,None,0,9.7807E+12,2016-10-02,by Reed Farrel Coleman,ROBERT B. PARKER'S DEBT TO PAY,1
 644,Nan A. Talese/Doubleday,0,Ian McEwan,0385542070,0,9.78039E+12,2016-10-02,by Ian McEwan,NUTSHELL,1
-645,Morrow/HarperCollins,0,J A Jance,62297732,0,9.78006E+12,2016-09-25,by J. A. Jance,DOWNFALL,1
+645,Morrow/HarperCollins,0,J A Jance,0062297732,0,9.78006E+12,2016-09-25,by J. A. Jance,DOWNFALL,1
 646,Berkley,0,Clare Mackintosh,None,0,9.7811E+12,2016-09-25,by  Clare Mackintosh,I LET YOU GO,1
 647,BookShots,0,James Patterson with Max DiLallo,0316361526,0,9.78032E+12,2016-09-25,by James Patterson with Max DiLallo,113 MINUTES,1
 648,"Farrar, Straus & Giroux",0,Jonathan Safran Foer,0374280029,0,9.78037E+12,2016-09-25,by Jonathan Safran Foer,HERE I AM,1
 649,HQN,0,Linda Lael Miller,1460394135,0,9.78146E+12,2016-09-18,by Linda Lael Miller,ALWAYS A COWBOY,1
 650,Zebra,0,Fern Michaels,1420140647,0,9.78142E+12,2016-09-18,by Fern Michaels,FAST AND LOOSE,1
-651,Avon,0,Sarah MacLean,62379445,0,9.78006E+12,2016-09-18,by Sarah MacLean,A SCOT IN THE DARK,1
+651,Avon,0,Sarah MacLean,0062379445,0,9.78006E+12,2016-09-18,by Sarah MacLean,A SCOT IN THE DARK,1
 652,Simon & Schuster,0,James Lee Burke,1501107488,0,9.7815E+12,2016-09-18,by James Lee Burke,THE JEALOUS KIND,1
-653,HarperCollins,0,Susan Elizabeth Phillips,62405632,0,9.78006E+12,2016-09-11,by Susan Elizabeth Phillips,FIRST STAR I SEE TONIGHT,1
+653,HarperCollins,0,Susan Elizabeth Phillips,0062405632,0,9.78006E+12,2016-09-11,by Susan Elizabeth Phillips,FIRST STAR I SEE TONIGHT,1
 654,Ballantine,0,Kristin Hannah,0345459520,0,9.78035E+12,2016-09-11,by Kristin Hannah,SUMMER ISLAND,1
-655,Avon,0,Maya Banks,62410172,0,9.78006E+12,2016-09-11,by Maya Banks,WITH EVERY BREATH,1
+655,Avon,0,Maya Banks,0062410172,0,9.78006E+12,2016-09-11,by Maya Banks,WITH EVERY BREATH,1
 656,St. Martin's,0,Lisa Scottoline,1250099633,0,9.78125E+12,2016-09-04,by Lisa Scottoline,DAMAGED,1
 657,Jamie McGuire,0,Jamie McGuire,None,0,A00B01GJ5LT0O,2016-09-04,by Jamie McGuire,A BEAUTIFUL FUNERAL,1
 658,Blue Bolt,0,Jasmine Walt and Rebecca Hamilton,None,0,A00B01FT4OAUW,2016-09-04,by Jasmine Walt and Rebecca Hamilton,SHADOW BORN,1
 659,Penelope Ward,0,Penelope Ward,1942215479,0,9.78194E+12,2016-09-04,by Penelope Ward,NEIGHBOR DEAREST,1
 660,Touchstone,0,Philippa Gregory,1476758751,0,9.78148E+12,2016-08-28,by Philippa Gregory,"THREE SISTERS, THREE QUEENS",1
-661,Witness Impulse,0,J A Jance,62499041,0,9.78006E+12,2016-08-28,by J. A. Jance,RANDOM ACTS,1
-662,Morrow/HarperCollins,0,Kristen Pro,62434780,0,9.78006E+12,2016-08-28,by Kristen Proby,CLOSE TO YOU,1
+661,Witness Impulse,0,J A Jance,0062499041,0,9.78006E+12,2016-08-28,by J. A. Jance,RANDOM ACTS,1
+662,Morrow/HarperCollins,0,Kristen Pro,0062434780,0,9.78006E+12,2016-08-28,by Kristen Proby,CLOSE TO YOU,1
 663,Putnam,0,Stuart Woods and Parnell Hall,None,0,9.7804E+12,2016-08-21,by Stuart Woods and Parnell Hall,SMOOTH OPERATOR,1
 664,Berkley,0,Christine Feehan,None,0,9.7807E+12,2016-08-21,by Christine Feehan,DARK CAROUSEL,1
 665,BookShots,0,James Patterson with Michael Ledwidge,031636164X,0,9.78032E+12,2016-08-21,by James Patterson with Michael Ledwidge,CHASE,1
@@ -692,7 +692,7 @@
 690,Denise Grover Swank,0,Denise Grover Swank,1939996392,0,9.78E+12,2016-06-05,by Denise Grover Swank,THIRTY-SIX AND A HALF MOTIVES,1
 691,Berkley,0,Jane Green,None,0,9.78E+12,2016-06-05,by Jane Green,THE BEACH HOUSE,1
 692,Viking,0,Craig Johnson,None,0,9.78E+12,2016-06-05,by Craig Johnson,THE HIGHWAYMAN,1
-693,Morrow,0,Linda Howard,62419005,0,9.78E+12,2016-05-29,by Linda Howard,TROUBLEMAKER,1
+693,Morrow,0,Linda Howard,0062419005,0,9.78E+12,2016-05-29,by Linda Howard,TROUBLEMAKER,1
 694,Mira,0,Debbie Macomber,1459254821,0,9.78E+12,2016-05-29,by Debbie Macomber,16 LIGHTHOUSE ROAD,1
 695,Del Rey,0,Claudia Gray,0345511360,0,9.78E+12,2016-05-22,by Claudia Gray,STAR WARS: BLOODLINE,1
 696,Signet,0,Mary Balogh,0698411323,0,9.78E+12,2016-05-22,by Mary Balogh,ONLY BELOVED,1
@@ -710,15 +710,15 @@
 708,St. Martin's,0,Lisa Scottoline,1250088127,0,9.78E+12,2016-05-01,by Lisa Scottoline,MOST WANTED,1
 709,Oak Press,0,Bella Andre,1938127897,0,9.78E+12,2016-05-01,by Bella Andre,NOW THAT I'VE FOUND YOU,1
 710,Valkyrie Press,0,Kresley Cole,0997215100,0,9.78E+12,2016-05-01,by Kresley Cole,THE PLAYER,1
-711,Morrow/HarperCollins,0,Kristen Pro,62434772,0,9.78E+12,2016-05-01,by Kristen Proby,LISTEN TO ME,1
+711,Morrow/HarperCollins,0,Kristen Pro,0062434772,0,9.78E+12,2016-05-01,by Kristen Proby,LISTEN TO ME,1
 712,New American Library,0,J R Ward,None,0,9.78E+12,2016-04-24,by J. R. Ward,THE BEAST,1
 713,Dell,0,Diana Gabaldon,1101882522,0,9.78E+12,2016-04-24,by Diana Gabaldon,VIRGINS,1
-714,Morrow/HarperCollins,0,Bryan Reardon,62339532,0,9.78E+12,2016-04-24,by Bryan Reardon,FINDING JAKE,1
+714,Morrow/HarperCollins,0,Bryan Reardon,0062339532,0,9.78E+12,2016-04-24,by Bryan Reardon,FINDING JAKE,1
 715,Harlequin,0,Ron Carr,1459292472,0,9.78E+12,2016-04-24,by Robyn Carr,WHAT WE FIND,1
-716,Harper/HarperCollins,0,Jacqueline Winspear,62220624,0,9.78E+12,2016-04-17,by Jacqueline Winspear,JOURNEY TO MUNICH,1
+716,Harper/HarperCollins,0,Jacqueline Winspear,0062220624,0,9.78E+12,2016-04-17,by Jacqueline Winspear,JOURNEY TO MUNICH,1
 717,HQN,0,Linda Lael Miller,1459292529,0,9.78E+12,2016-04-17,by Linda Lael Miller,ONCE A RANCHER,1
 718,Grand Central,0,Jill Shalvis,145558679X,0,9.78E+12,2016-04-17,by Jill Shalvis,NOBODY BUT YOU,1
-719,HarperCollins,0,Lisa Scottoline,61797766,0,9.78E+12,2016-04-17,by Lisa Scottoline,DADDY'S GIRL,1
+719,HarperCollins,0,Lisa Scottoline,0061797766,0,9.78E+12,2016-04-17,by Lisa Scottoline,DADDY'S GIRL,1
 720,Tijan,0,Tijan,None,0,A00B01DIE5R3Y,2016-04-17,by Tijan,LOGAN KADE,1
 721,Howard Books,0,Karen Kingsbury,1451687540,0,9.78E+12,2016-04-17,by Karen Kingsbury,A BRUSH OF WINGS,1
 722,Random House,0,Helen Simonson,0679644644,0,9.78E+12,2016-04-10,by Helen Simonson,THE SUMMER BEFORE THE WAR,1
@@ -727,13 +727,13 @@
 725,InterMix,0,Nora Roberts,None,0,9.78E+12,2016-04-03,by Nora Roberts,PLAYING THE ODDS,1
 726,Loveswept,0,Sawyer Bennett,1101968109,0,9.78E+12,2016-04-03,by Sawyer Bennett,HAWKE,1
 727,Putnam,0,Randy Wayne White,039917351X,0,9.78E+12,2016-04-03,by Randy Wayne White,DEEP BLUE,1
-728,Harper,0,Anne Hillerman,62270532,0,9.78E+12,2016-03-27,by Anne Hillerman,ROCK WITH WINGS,1
+728,Harper,0,Anne Hillerman,0062270532,0,9.78E+12,2016-03-27,by Anne Hillerman,ROCK WITH WINGS,1
 729,Atlantic Monthly,0,Donna Leon,0802190316,0,9.78E+12,2016-03-27,by Donna Leon,THE WATERS OF ETERNAL YOUTH,1
 730,Touchstone,0,J A Jance,1501110764,0,9.78E+12,2016-03-27,by J. A. Jance,CLAWBACK,1
 731,Roc,0,Anne Bishop,0698190424,0,9.78E+12,2016-03-27,by Anne Bishop,MARKED IN FLESH,1
 732,Touchstone,0,Kathleen Grissom,1439160120,0,9.78E+12,2016-03-20,by Kathleen Grissom,THE KITCHEN HOUSE,1
 733,Scribner,0,Colm Toibin,1501106473,0,9.78E+12,2016-03-20,by Colm Toibin,BROOKLYN,1
-734,Avon,0,Lynsay Sands,62316052,0,9.78E+12,2016-03-13,by Lynsay Sands,RUNAWAY VAMPIRE,1
+734,Avon,0,Lynsay Sands,0062316052,0,9.78E+12,2016-03-13,by Lynsay Sands,RUNAWAY VAMPIRE,1
 735,Ballantine,0,Tess Gerritsen,0345549635,0,9.78E+12,2016-03-13,by Tess Gerritsen,GIRL MISSING,1
 736,Kensington,0,Joanne Fluke,1617732176,0,9.78E+12,2016-03-13,by Joanne Fluke,WEDDING CAKE MURDER,1
 737,HQN,0,Lori Foster,1459292413,0,9.78E+12,2016-03-13,by Lori Foster,FIGHTING DIRTY,1
@@ -745,11 +745,11 @@
 743,Gallery Books,0,Christina Lauren,1476777993,0,9.78E+12,2016-02-21,by Christina Lauren,WICKED SEXY LIAR,1
 744,Jove,0,Christine Feehan,None,0,9.78E+12,2016-02-14,by Christine Feehan,SPIDER GAME,1
 745,Tor/Tom Doherty,0,Brandon Sanderson,146686267X,0,9.78E+12,2016-02-14,by Brandon Sanderson,THE BANDS OF MOURNING,1
-746,Avon,0,Eloisa James,62389440,0,9.78E+12,2016-02-14,by Eloisa James,MY AMERICAN DUCHESS,1
+746,Avon,0,Eloisa James,0062389440,0,9.78E+12,2016-02-14,by Eloisa James,MY AMERICAN DUCHESS,1
 747,Del Rey,0,Kevin Hearne,0345548523,0,9.78E+12,2016-02-14,by Kevin Hearne,STAKED,1
 748,Simon & Schuster,0,Sandra Brown,1416563229,0,9.78E+12,2016-02-14,by Sandra Brown,TOUGH CUSTOMER,1
 749,Delacorte,0,Karen Marie Moning,0440339820,0,9.78E+12,2016-02-07,by Karen Marie Moning,FEVERBORN,1
-750,Harper,0,Bernard Cornwell,62250965,0,9.78E+12,2016-02-07,by Bernard Cornwell,WARRIORS OF THE STORM,1
+750,Harper,0,Bernard Cornwell,0062250965,0,9.78E+12,2016-02-07,by Bernard Cornwell,WARRIORS OF THE STORM,1
 751,Elle Kennedy,0,Elle Kennedy,None,0,9.78E+12,2016-01-31,by Elle Kennedy,THE SCORE,1
 752,Kristen Ashley,0,Kristen Ashley,None,0,A00B0182LT4L4,2016-01-31,by Kristen Ashley,SEBRING,1
 753,Dutton,0,Tami Hoag,0698190831,0,9.78E+12,2016-01-31,by Tami Hoag,THE BITTER SEASON,1
@@ -757,13 +757,13 @@
 755,Kensington,0,Fern Michaels,None,0,9.78E+12,2016-01-17,by Fern Michaels,POINT BLANK,1
 756,Dutton,0,Brad Taylor,0698404149,0,9.78E+12,2016-01-17,by Brad Taylor,THE FORGOTTEN SOLDIER,1
 757,HQN,0,Kristan Higgins,1460391896,0,9.78E+12,2016-01-17,by Kristan Higgins,ANYTHING FOR YOU,1
-758,Morrow/HarperCollins,0,James Rollins,62381636,0,9.78E+12,2016-01-03,by James Rollins,THE BONE LABYRINTH,1
+758,Morrow/HarperCollins,0,James Rollins,0062381636,0,9.78E+12,2016-01-03,by James Rollins,THE BONE LABYRINTH,1
 759,Berkley,0,Jayne Ann Krentz,None,0,9.78E+12,2015-12-27,by Jayne Ann Krentz,SECRET SISTERS,1
 760,Signet,0,J R Ward,None,0,9.78E+12,2015-12-20,by J. R. Ward,BLOOD KISS,1
 761,Jove,0,Christine Feehan,None,0,9.78E+12,2015-12-13,by Christine Feehan,WILD CAT,1
 762,Kendall Ryan,0,Kendall Ryan,None,0,A00B014X8XL1Y,2015-12-06,by Kendall Ryan,MONSTER ________,1
 763,Simon & Schuster,0,Richard Paul Evans,1501119796,0,9.78E+12,2015-12-06,by Richard Paul Evans,THE MISTLETOE INN,1
-764,Morrow/HarperCollins,0,Kim van Alkemade,62338315,0,9.78E+12,2015-12-06,by Kim van Alkemade,ORPHAN #8,1
+764,Morrow/HarperCollins,0,Kim van Alkemade,0062338315,0,9.78E+12,2015-12-06,by Kim van Alkemade,ORPHAN #8,1
 765,Atria,0,Colleen Hoover,1501110357,0,9.78E+12,2015-11-29,by Colleen Hoover,9-Nov,1
 766,Berkley,0,Joanna Wylde,None,0,9.78E+12,2015-11-29,by Joanna Wylde,REAPER'S FALL,1
 767,Simon & Schuster,0,John Irving,1451664168,0,9.78E+12,2015-11-22,by John Irving,AVENUE OF MYSTERIES,1
@@ -776,7 +776,7 @@
 774,Pantheon,0,Alexander McCall Smith,None,0,9.78E+12,2015-11-15,by Alexander McCall Smith,THE WOMAN WHO WALKED IN SUNSHINE,1
 775,St. Martin's,0,Lisa Scottoline,1250027942,0,9.78E+12,2015-11-15,by Lisa Scottoline,CORRUPTED,1
 776,Atria,0,Kate Morton,1451649371,0,9.78E+12,2015-11-08,by Kate Morton,THE LAKE HOUSE,1
-777,Harper Perennial/HarperCollins,0,Joseph Fink and Jeffrey Cranor,62351427,0,9.78E+12,2015-11-08,by Joseph Fink and Jeffrey Cranor,WELCOME TO NIGHT VALE,1
+777,Harper Perennial/HarperCollins,0,Joseph Fink and Jeffrey Cranor,0062351427,0,9.78E+12,2015-11-08,by Joseph Fink and Jeffrey Cranor,WELCOME TO NIGHT VALE,1
 778,Tijan,0,Tijan,None,0,A00B016TO0AOG,2015-11-08,by Tijan,KIAN,1
 779,Putnam,0,Stuart Woods,None,0,9.78E+12,2015-11-01,by Stuart Woods,FOREIGN AFFAIRS,1
 780,Knopf,0,Garth Risk Hallberg,0385353774,0,9.78E+12,2015-11-01,by Garth Risk Hallberg,CITY ON FIRE,1
@@ -794,7 +794,7 @@
 792,Kingswell,0,Richard Castle,1484720342,0,9.78E+12,2015-10-11,by Richard Castle,RAGING HEAT,1
 793,Forever,0,Meredith Wild,1455591742,0,9.78E+12,2015-10-04,by Meredith Wild,HARD LOVE,1
 794,Carina,0,Marie Force,142689998X,0,9.78E+12,2015-10-04,by Marie Force,FATAL FRENZY,1
-795,Morrow/HarperCollins,0,J A Jance,62297686,0,9.78E+12,2015-09-27,by J. A. Jance,DANCE OF THE BONES,1
+795,Morrow/HarperCollins,0,J A Jance,0062297686,0,9.78E+12,2015-09-27,by J. A. Jance,DANCE OF THE BONES,1
 796,Putnam,0,Reed Farrel Coleman,None,0,9.78E+12,2015-09-27,by Reed Farrel Coleman,ROBERT B. PARKER'S THE DEVIL WINS,1
 797,Putnam,0,Clive Cussler and Russell Blake,0698192095,0,9.78E+12,2015-09-20,by Clive Cussler and Russell Blake,THE SOLOMON CURSE,1
 798,Berkley,0,Christine Feehan,None,0,9.78E+12,2015-09-20,by Christine Feehan,DARK GHOST,1
@@ -822,7 +822,7 @@
 820,HQN,0,Susan Mallery,None,0,9.78E+12,2015-07-19,by Susan Mallery,KISS ME,1
 821,Zebra,0,Fern Michaels,1420135953,0,9.78E+12,2015-07-19,by Fern Michaels,IN PLAIN SIGHT,1
 822,Bantam,0,Janet Evanovich and Phoef Sutton,0553392727,0,9.78E+12,2015-07-12,by Janet Evanovich and Phoef Sutton,WICKED CHARMS,1
-823,Avon,0,Maya Banks,62312510,0,9.78E+12,2015-07-12,by Maya Banks,SAFE AT LAST,1
+823,Avon,0,Maya Banks,0062312510,0,9.78E+12,2015-07-12,by Maya Banks,SAFE AT LAST,1
 824,Ballantine,0,Jude Deveraux,0345541863,0,9.78E+12,2015-07-12,by Jude Deveraux,EVER AFTER,1
 825,Berkley,0,Laurell K Hamilton,0698140303,0,9.78E+12,2015-06-28,by Laurell K. Hamilton,DEAD ICE,1
 826,Signet,0,Mary Balogh,None,0,9.78E+12,2015-06-28,by Mary Balogh,ONLY A PROMISE,1
@@ -847,7 +847,7 @@
 845,Denise Grover Swank,0,Denise Grover Swank,1939996260,0,9.78E+12,2015-05-17,by Denise Grover Swank,THIRTY-FOUR AND A HALF PREDICAMENTS,1
 846,Rerum Industries,0,R L Mathewson,0988573237,0,9.78E+12,2015-05-17,by R. L. Mathewson,DOUBLE DARE,1
 847,Putnam,0,Amanda Quick,1101621044,0,9.78E+12,2015-05-10,by Amanda Quick,GARDEN OF LIES,1
-848,Morrow/HarperCollins,0,Jay Crownover,62333089,0,9.78E+12,2015-05-10,by Jay Crownover,ASA,1
+848,Morrow/HarperCollins,0,Jay Crownover,0062333089,0,9.78E+12,2015-05-10,by Jay Crownover,ASA,1
 849,InterMix,0,Penelope Douglas,None,0,9.78E+12,2015-05-10,by Penelope Douglas,AFLAME,1
 850,Simon & Schuster,0,Christina Lauren,1476778019,0,9.78E+12,2015-05-03,by Christina Lauren,BEAUTIFUL SECRET,1
 851,Aurora Rose Reynolds,0,Aurora Rose Reynolds,None,0,A00B00VNAB1MW,2015-05-03,by Aurora Rose Reynolds,UNTIL JULY,1
@@ -867,8 +867,8 @@
 865,Kensington,0,Gregg Olsen,None,0,9.78E+12,2015-04-12,by Gregg Olsen,A WICKED SNOW,1
 866,Putnam,0,Randy Wayne White,None,0,9.78E+12,2015-04-12,by Randy Wayne White,CUBA STRAITS,1
 867,Simon & Schuster,0,Katy Evans,1501101560,0,9.78E+12,2015-04-12,by Katy Evans,MANWHORE,1
-868,Harper,0,Jacqueline Winspear,62220578,0,9.78E+12,2015-04-05,by Jacqueline Winspear,A DANGEROUS PLACE,1
-869,Harper,0,Michael Crichton,61750239,0,9.78E+12,2015-04-05,by Michael Crichton,PREY,1
+868,Harper,0,Jacqueline Winspear,0062220578,0,9.78E+12,2015-04-05,by Jacqueline Winspear,A DANGEROUS PLACE,1
+869,Harper,0,Michael Crichton,0061750239,0,9.78E+12,2015-04-05,by Michael Crichton,PREY,1
 870,Kristen Ashley,0,Kristen Ashley,None,0,A00B00S5B70BS,2015-04-05,by Kristen Ashley,SOARING,1
 871,Pepper Winters,0,Pepper Winters,None,0,A00B00UIPVOMK,2015-04-05,by Pepper Winters,MONSTERS IN THE DARK,1
 872,Atria,0,Colleen Hoover,1476791465,0,9.78E+12,2015-03-29,by Colleen Hoover,CONFESS,1
@@ -885,7 +885,7 @@
 883,Jove,0,Christine Feehan,0698180569,0,9.78E+12,2015-02-15,by Christine Feehan,VIPER GAME,1
 884,Jamie McGuire,0,Jamie McGuire,None,0,A00B00Q6JAL76,2015-02-15,by Jamie McGuire,BEAUTIFUL REDEMPTION,1
 885,Avon/HarperCollins,0,Julia Quinn,None,0,9.78E+12,2015-02-15,by Julia Quinn,THE SECRETS OF SIR RICHARD KENWORTHY,1
-886,Avon/HarperCollins,0,Jeaniene Frost,62075829,0,9.78E+12,2015-02-15,by Jeaniene Frost,BOUND BY FLAMES,1
+886,Avon/HarperCollins,0,Jeaniene Frost,0062075829,0,9.78E+12,2015-02-15,by Jeaniene Frost,BOUND BY FLAMES,1
 887,Avon/HarperCollins,0,Maya Banks,None,0,9.78E+12,2015-02-15,by Maya Banks,IN HIS KEEPING,1
 888,Delacorte,0,Karen Marie Moning,0440339812,0,9.78E+12,2015-02-08,by Karen Marie Moning,BURNED,1
 889,St. Martin's,0,Sarah Addison Allen,1250019842,0,9.78E+12,2015-02-08,by Sarah Addison Allen,FIRST FROST,1
@@ -905,7 +905,7 @@
 903,Ampersand,0,Kristen Pro,None,0,9.78E+12,2014-12-21,by Kristen Proby,FOREVER WITH ME,1
 904,Harlequin,0,Gena Showalter,None,0,9.78E+12,2014-12-14,by Gena Showalter,THE DARKEST TOUCH,1
 905,St. Martin's,0,Lisa Scottoline,1250027683,0,9.78E+12,2014-12-14,by Lisa Scottoline,BETRAYED,1
-906,Avon/HarperCollins,0,Sarah MacLean,62065416,0,9.78E+12,2014-12-14,by Sarah MacLean,NEVER JUDGE A LADY BY HER COVER,1
+906,Avon/HarperCollins,0,Sarah MacLean,0062065416,0,9.78E+12,2014-12-14,by Sarah MacLean,NEVER JUDGE A LADY BY HER COVER,1
 907,Bantam,0,Janet Evanovich and Lee Goldberg,None,0,9.78E+12,2014-12-07,by Janet Evanovich and Lee Goldberg,THE JOB,1
 908,Simon & Schuster,0,Richard Paul Evans,1476728208,0,9.78E+12,2014-12-07,by Richard Paul Evans,THE MISTLETOE PROMISE,1
 909,Helen Cooper,0,Helen Cooper,1940218365,0,9.78E+12,2014-11-23,by Helen Cooper,ALPHA BILLIONAIRE 3,1
@@ -995,7 +995,7 @@
 993,Simon & Schuster,0,Stephen Hunter,1451640269,0,9.78E+12,2014-06-08,by Stephen Hunter,SNIPER'S HONOR,1
 994,Whitney Williams,0,Whitney G,0990317013,0,9.78E+12,2014-06-08,by Whitney G,REASONABLE DOUBT: BOOK 2,1
 995,Viking,0,Craig Johnson,0698163532,0,9.78E+12,2014-06-01,by Craig Johnson,ANY OTHER NAME,1
-996,Morrow/HarperCollins,0,James Rollins and Grant Blackwood,62135287,0,9.78E+12,2014-06-01,by James Rollins and Grant Blackwood,THE KILL SWITCH,1
+996,Morrow/HarperCollins,0,James Rollins and Grant Blackwood,0062135287,0,9.78E+12,2014-06-01,by James Rollins and Grant Blackwood,THE KILL SWITCH,1
 997,Knopf,0,Jo Nesbo,None,0,9.78E+12,2014-06-01,by Jo Nesbo,THE SON,1
 998,Roc,0,Jim Butcher,None,0,9.78E+12,2014-06-01,by Jim Butcher,STORM FRONT,1
 999,Simon & Schuster,0,Richard Paul Evans,1451628315,0,9.78E+12,2014-05-25,by Richard Paul Evans,WALKING ON WATER,1
@@ -1010,14 +1010,14 @@
 1008,Morrow/HarperCollins,0,Jay Crownover,None,0,9.78E+12,2014-05-18,by Jay Crownover,NASH,1
 1009,Harlequin,0,Gena Showalter,1460331222,0,9.78E+12,2014-05-18,by Gena Showalter,BURNING DAWN,1
 1010,Smashwords,0,"Bella Andre, Barbara Freethy and others",None,0,9.78E+12,2014-05-18,"by Bella Andre, Barbara Freethy and others",A SWEET LIFE,1
-1011,Avon/HarperCollins,0,Stephanie Laurens,62066293,0,9.78E+12,2014-05-18,by Stephanie Laurens,THE MASTERFUL MR. MONTAGUE,1
+1011,Avon/HarperCollins,0,Stephanie Laurens,0062066293,0,9.78E+12,2014-05-18,by Stephanie Laurens,THE MASTERFUL MR. MONTAGUE,1
 1012,Knopf,0,Maeve Binchy,None,0,9.78E+12,2014-05-11,by Maeve Binchy,CHESTNUT STREET,1
 1013,Putnam,0,Amanda Quick,None,0,9.78E+12,2014-05-11,by Amanda Quick,OTHERWISE ENGAGED,1
 1014,SOS Ladies,0,"Delilah Devlin, Sharon Hamilton and others",None,0,A00B00J436CN8,2014-05-11,"by Delilah Devlin, Sharon Hamilton and others",SEALS OF SUMMER,1
 1015,Harper,0,Kimberly McCreight,None,0,9.78E+12,2014-05-11,by Kimberly McCreight,RECONSTRUCTING AMELIA,1
 1016,Dell,0,Diana Gabaldon,None,0,9.78E+12,2014-05-04,by Diana Gabaldon,THE SPACE BETWEEN,1
 1017,Kristen Ashley,0,Kristen Ashley,None,0,A00B00HYIF9FW,2014-04-27,by Kristen Ashley,THE WILL,1
-1018,Morrow/HarperCollins,0,Wiley Cash,62088246,0,9.78E+12,2014-04-27,by Wiley Cash,A LAND MORE KIND THAN HOME,1
+1018,Morrow/HarperCollins,0,Wiley Cash,0062088246,0,9.78E+12,2014-04-27,by Wiley Cash,A LAND MORE KIND THAN HOME,1
 1019,Berkley Sensation,0,Jennifer Ashley,None,0,9.78E+12,2014-04-20,by Jennifer Ashley,WILD WOLF,1
 1020,Ballantine,0,Debbie Macomber,0345549864,0,9.78E+12,2014-04-13,by Debbie Macomber,BLOSSOM STREET BRIDES,1
 1021,Carina Press,0,Marie Force,142689807X,0,9.78E+12,2014-04-13,by Marie Force,FATAL JEOPARDY,1
@@ -1034,17 +1034,17 @@
 1032,JKB,0,K Bromberg,0989450244,0,9.78E+12,2014-03-23,by K. Bromberg,CRASHED,1
 1033,Oak Press,0,Bella Andre,None,0,9.78E+12,2014-03-23,by Bella Andre,JUST TO BE WITH YOU,1
 1034,Debbie Macomber Books,0,Debbie Macomber,None,0,9.78E+12,2014-03-16,by Debbie Macomber,FRIENDS ÛÓ AND THEN SOME,1
-1035,HarperVoyager,0,Kim Harrison,62300156,0,9.78E+12,2014-03-16,by Kim Harrison,THE UNDEAD POOL,1
+1035,HarperVoyager,0,Kim Harrison,0062300156,0,9.78E+12,2014-03-16,by Kim Harrison,THE UNDEAD POOL,1
 1036,Atria,0,Abbi Glines,1476756562,0,9.78E+12,2014-03-16,by Abbi Glines,TAKE A CHANCE,1
 1037,H. M. Ward Press,0,H M Ward,None,0,9.78E+12,2014-03-16,by H. M. Ward,THE ARRANGEMENT 14,1
 1038,Kensington,0,Joanne Fluke,0758280394,0,9.78E+12,2014-03-16,by Joanne Fluke,BLACKBERRY PIE MURDER,1
-1039,Avon/HarperCollins,0,Lynsay Sands,62078097,0,9.78E+12,2014-03-09,by Lynsay Sands,VAMPIRE MOST WANTED,1
+1039,Avon/HarperCollins,0,Lynsay Sands,0062078097,0,9.78E+12,2014-03-09,by Lynsay Sands,VAMPIRE MOST WANTED,1
 1040,Grand Central,0,Jill Shalvis,1455521140,0,9.78E+12,2014-03-09,by Jill Shalvis,ONCE IN A LIFETIME,1
 1041,Tor/Tom Doherty,0,David Weber,None,0,9.78E+12,2014-03-09,by David Weber,LIKE A MIGHTY ARMY,1
 1042,Touchstone,0,J A Jance,None,0,9.78E+12,2014-03-09,by J. A. Jance,MOVING TARGET,1
 1043,Vintage Crime/Black Lizard,0,Jo Nesbo,0345807162,0,9.78E+12,2014-03-02,by Jo Nesbo,COCKROACHES,1
 1044,Putnam,0,Alex Berenson,None,0,9.78E+12,2014-03-02,by Alex Berenson,THE COUNTERFEIT AGENT,1
-1045,HarperCollins,0,Tara Conklin,62207520,0,9.78E+12,2014-03-02,by Tara Conklin,THE HOUSE GIRL,1
+1045,HarperCollins,0,Tara Conklin,0062207520,0,9.78E+12,2014-03-02,by Tara Conklin,THE HOUSE GIRL,1
 1046,Copper Key Media,0,KM Scott,None,0,9.78E+12,2014-03-02,by K.M. Scott,GIVE IN TO ME,1
 1047,Berkley,0,Maya Banks,None,0,9.78E+12,2014-02-23,by Maya Banks,LETTING GO,1
 1048,Morrow/HarperCollins,0,J Lynn,None,0,9.78E+12,2014-02-23,by J. Lynn,BE WITH ME,1
@@ -1060,14 +1060,14 @@
 1058,Laurens Publishing,0,Kathleen Brooks,None,0,9.78E+12,2014-02-09,by Kathleen Brooks,FINAL VOW,1
 1059,Pocket Star,0,Kresley Cole,None,0,9.78E+12,2014-02-09,by Kresley Cole,"THE PROFESSIONAL, PART 3",1
 1060,Pocket Books,0,VC Andrews,1451636946,0,9.78E+12,2014-02-09,by V.C. Andrews,FLOWERS IN THE ATTIC,1
-1061,HarperCollins,0,Helene Wecker,62110853,0,9.78E+12,2014-02-09,by Helene Wecker,THE GOLEM AND THE JINNI,1
+1061,HarperCollins,0,Helene Wecker,0062110853,0,9.78E+12,2014-02-09,by Helene Wecker,THE GOLEM AND THE JINNI,1
 1062,Sprigleaf,0,Annette Blair and others,None,0,9.78E+12,2014-02-02,by Annette Blair and others,SCANDALOUS BRIDES,1
 1063,Dutton,0,Brad Taylor,None,0,9.78E+12,2014-02-02,by Brad Taylor,THE POLARIS PROTOCOL,1
 1064,Delacorte,0,Alan Bradley,None,0,9.78E+12,2014-02-02,by Alan Bradley,THE DEAD IN THEIR VAULTED ARCHES,1
 1065,Berkley,0,Christine Feehan,None,0,9.78E+12,2014-01-26,by Christine Feehan,DARK WOLF,1
 1066,Berkley,0,Maya Banks,None,0,9.78E+12,2014-01-26,by Maya Banks,AFTER THE STORM,1
 1067,Putnam,0,Jayne Ann Krentz,None,0,9.78E+12,2014-01-26,by Jayne Ann Krentz,RIVER ROAD,1
-1068,Morrow/HarperCollins,0,Jay Crownover,62302396,0,9.78E+12,2014-01-26,by Jay Crownover,ROME,1
+1068,Morrow/HarperCollins,0,Jay Crownover,0062302396,0,9.78E+12,2014-01-26,by Jay Crownover,ROME,1
 1069,Bantam,0,J Kenner,None,0,9.78E+12,2014-01-26,by J. Kenner,WANTED,1
 1070,Harper,0,Bernard Cornwell,006219934X,0,9.78E+12,2014-01-26,by Bernard Cornwell,THE PAGAN LORD,1
 1071,Harlequin,0,Linda Lael Miller,1460323769,0,9.78E+12,2014-01-19,by Linda Lael Miller,BIG SKY SECRETS,1
@@ -1088,7 +1088,7 @@
 1086,Bantam,0,Dean Koontz,0804178615,0,9.78E+12,2013-11-24,by Dean Koontz,WILDERNESS,1
 1087,Ace,0,Charlaine Harris,None,0,9.78E+12,2013-11-17,by Charlaine Harris,AFTER DEAD,1
 1088,Simon & Schuster,0,Christina Lauren,1476751412,0,9.78E+12,2013-11-17,by Christina Lauren,BEAUTIFUL PLAYER,1
-1089,HarperCollins,0,Julia Quinn,62072935,0,9.78E+12,2013-11-17,by Julia Quinn,THE SUM OF ALL KISSES,1
+1089,HarperCollins,0,Julia Quinn,0062072935,0,9.78E+12,2013-11-17,by Julia Quinn,THE SUM OF ALL KISSES,1
 1090,Harlequin,0,Diana Palmer,1460320891,0,9.78E+12,2013-11-17,by Diana Palmer,WYOMING BOLD,1
 1091,Howard Books,0,Karen Kingsbury,None,0,9.78E+12,2013-11-17,by Karen Kingsbury,FIFTEEN MINUTES,1
 1092,Grand Central,0,Jessica Sorensen,1455574902,0,9.78E+12,2013-11-10,by Jessica Sorensen,THE TEMPTATION OF LILA AND ETHAN,1
@@ -1150,7 +1150,7 @@
 1148,Berkley,0,Laurell K Hamilton,None,0,9.78E+12,2013-07-21,by Laurell K. Hamilton,AFFLICTION,1
 1149,Delacorte,0,Karin Slaughter,None,0,9.78E+12,2013-07-21,by Karin Slaughter,UNSEEN,1
 1150,Gallery Books,0,Kresley Cole,1476713359,0,9.78E+12,2013-07-21,by Kresley Cole,MACRIEVE,1
-1151,Morrow/HarperCollins,0,James Rollins,62194917,0,9.78E+12,2013-07-14,by James Rollins,THE EYE OF GOD,1
+1151,Morrow/HarperCollins,0,James Rollins,0062194917,0,9.78E+12,2013-07-14,by James Rollins,THE EYE OF GOD,1
 1152,Harlequin,0,Susan Mallery,1460315154,0,9.78E+12,2013-07-14,by Susan Mallery,TWO OF A KIND,1
 1153,Berkley,0,Maya Banks,None,0,9.78E+12,2013-07-14,by Maya Banks,FORGED IN STEELE,1
 1154,Dutton,0,Tami Hoag,None,0,9.78E+12,2013-07-07,by Tami Hoag,THE 9TH GIRL,1
@@ -1172,7 +1172,7 @@
 1170,Houghton Mifflin Harcourt,0,Ann Patchett,0547548796,0,9.78055E+12,2013-05-26,by Ann Patchett,THE MAGICIAN'S ASSISTANT,1
 1171,Harlequin Mira,0,Sherryl Woods,None,0,9.78146E+12,2013-05-19,by Sherryl Woods,WIND CHIME POINT,1
 1172,Ellora's Cave,0,Laurann Dohner,None,0,9.78142E+12,2013-05-19,by Laurann Dohner,MOON,1
-1173,HarperCollins,0,John Irving,62204106,0,9.78006E+12,2013-05-19,by John Irving,A PRAYER FOR OWEN MEANY,1
+1173,HarperCollins,0,John Irving,0062204106,0,9.78006E+12,2013-05-19,by John Irving,A PRAYER FOR OWEN MEANY,1
 1174,Atria,0,Colleen Hoover,1476746540,0,9.78148E+12,2013-05-19,by Colleen Hoover,THIS GIRL,1
 1175,Harlequin,0,Susan Mallery,None,0,9.78146E+12,2013-05-19,by  Susan Mallery,HALFWAY THERE,1
 1176,Bantam,0,J Kenner,None,0,9.78035E+12,2013-05-12,by J. Kenner,CLAIM ME,1
@@ -1188,7 +1188,7 @@
 1186,The Indie Voice,0,Jana DeLeon and others,None,0,9.78099E+12,2013-04-21,by Jana DeLeon and others,TO DIE FOR,1
 1187,Grand Central Publishing,0,Kristen Ashley,None,0,9.78146E+12,2013-04-21,by Kristen Ashley,OWN THE WIND,1
 1188,Katie Ashley,0,Katie Ashley,None,0,A00B00C0X6LG2,2013-04-21,by Katie Ashley,MUSIC OF THE HEART,1
-1189,HarperCollins Publishers,0,Jeaniene Frost,62075837,0,9.78006E+12,2013-04-14,by Jeaniene Frost,TWICE TEMPTED,1
+1189,HarperCollins Publishers,0,Jeaniene Frost,0062075837,0,9.78006E+12,2013-04-14,by Jeaniene Frost,TWICE TEMPTED,1
 1190,Harlequin,0,Sherryl Woods,None,0,9.78146E+12,2013-04-14,by Sherryl Woods,SAND CASTLE BAY,1
 1191,HarperCollins Publishers,0,Jacqueline Winspear,None,0,9.78006E+12,2013-04-14,by Jacqueline Winspear,LEAVING EVERYTHING MOST LOVED,1
 1192,HarperCollins Publishers,0,Stephanie Laurens,None,0,9.78006E+12,2013-04-14,by Stephanie Laurens,AND THEN SHE FELL,1
@@ -1204,7 +1204,7 @@
 1202,Penguin Group,0,Clive Cussler and Justin Scott,None,0,9.7811E+12,2013-03-24,by Clive Cussler and Justin Scott,THE STRIKER,1
 1203,Howard Books,0,Karen Kingsbury,1451647042,0,9.78145E+12,2013-03-24,by Karen Kingsbury,THE CHANCE,1
 1204,Tyndale House Publishers,0,Joel C Rosenberg,1414381859,0,9.78141E+12,2013-03-24,by Joel C. Rosenberg,DAMASCUS COUNTDOWN,1
-1205,HarperCollins Publishers,0,Lynsay Sands,62078127,0,9.78006E+12,2013-03-17,by Lynsay Sands,IMMORTAL EVER AFTER,1
+1205,HarperCollins Publishers,0,Lynsay Sands,0062078127,0,9.78006E+12,2013-03-17,by Lynsay Sands,IMMORTAL EVER AFTER,1
 1206,Marie Force,0,Marie Force,0985034157,0,9.78099E+12,2013-03-10,by Marie Force,WAITING FOR LOVE,1
 1207,Shanora Williams,0,Shanora Williams,None,0,A00B00BEQP450,2013-03-10,by Shanora Williams,HARD TO RESIST,1
 1208,St. Martin's Press,0,Jackie Collins,1250011019,0,9.78125E+12,2013-03-03,by Jackie Collins,THE POWER TRIP,1
@@ -1237,7 +1237,7 @@
 1235,Random House Publishing,0,H P Mallory,0345531590,0,9.78035E+12,2012-10-14,by H. P. Mallory,SOMETHING WITCHY THIS WAY COMES,1
 1236,Penguin Group,0,Beth Kery,None,0,9.7811E+12,2012-10-07,by Beth Kery,"BECAUSE YOU ARE MINE, PART VIII",1
 1237,Hyperion Press,0,Richard Castle,1401304729,0,9.7814E+12,2012-09-30,by Richard Castle,FROZEN HEAT,1
-1238,HarperCollins Publishers,0,Michael Chabon,61493341,0,9.78006E+12,2012-09-30,by Michael Chabon,TELEGRAPH AVENUE,1
+1238,HarperCollins Publishers,0,Michael Chabon,0061493341,0,9.78006E+12,2012-09-30,by Michael Chabon,TELEGRAPH AVENUE,1
 1239,Simon & Schuster,0,Tina Reber,1476718989,0,9.78148E+12,2012-09-30,by Tina Reber,LOVE UNREHEARSED,1
 1240,Penguin Group,0,Junot DÃ­az,1594487367,0,9.78159E+12,2012-09-30,by Junot DÃ­az,THIS IS HOW YOU LOSE HER,1
 1241,Penguin Group,0,Junot DÌ_az,1594487367,0,9.78E+12,2012-09-30,by Junot DÌ_az,THIS IS HOW YOU LOSE HER,1
@@ -1261,38 +1261,38 @@
 1259,Harlequin,0,Susan Mallery,1459234537,0,9.78146E+12,2012-08-19,by Susan Mallery,ALL SUMMER LONG,1
 1260,Harlequin,0,Linda Lael Miller,None,0,9.78146E+12,2012-08-19,by Linda Lael Miller,BIG SKY MOUNTAIN,1
 1261,Penguin Group,0,Tana French,None,0,9.7811E+12,2012-08-12,by Tana French,BROKEN HARBOR,1
-1262,HarperCollins Publishers,0,J A Jance,62132385,0,9.78006E+12,2012-08-12,by J. A. Jance,JUDGMENT CALL,1
+1262,HarperCollins Publishers,0,J A Jance,0062132385,0,9.78006E+12,2012-08-12,by J. A. Jance,JUDGMENT CALL,1
 1263,Simon & Schuster,0,James Lee Burke,1451648154,0,9.78145E+12,2012-08-05,by James Lee Burke,CREOLE BELLE,1
-1264,HarperCollins Publishers,0,Susan Elizabeth Phillips,62106104,0,9.78006E+12,2012-07-29,by Susan Elizabeth Phillips,THE GREAT ESCAPE,1
+1264,HarperCollins Publishers,0,Susan Elizabeth Phillips,0062106104,0,9.78006E+12,2012-07-29,by Susan Elizabeth Phillips,THE GREAT ESCAPE,1
 1265,Penguin Group,0,Laura Moriarty,None,0,9.7811E+12,2012-07-29,by Laura Moriarty,THE CHAPERONE,1
 1266,Penguin Group,0,Christine Feehan,None,0,9.7811E+12,2012-07-22,by Christine Feehan,SAMURAI GAME,1
 1267,Berkley,0,Maya Banks,None,0,9.7811E+12,2012-07-22,by Maya Banks,ECHOES AT DAWN,1
 1268,Zondervan,0,Karen Kingsbury,0310333644,0,9.78031E+12,2012-07-15,by Karen Kingsbury,COMING HOME,1
-1269,HarperCollins Publishers,0,Jeaniene Frost,62096273,0,9.78006E+12,2012-07-15,by Jeaniene Frost,ONCE BURNED,1
+1269,HarperCollins Publishers,0,Jeaniene Frost,0062096273,0,9.78006E+12,2012-07-15,by Jeaniene Frost,ONCE BURNED,1
 1270,Harlequin,0,Susan Mallery,1459233174,0,9.78146E+12,2012-07-15,by Susan Mallery,SUMMER NIGHTS,1
 1271,Random House Publishing,0,Dean Koontz,None,0,9.78035E+12,2012-07-15,by Dean Koontz,ODD INTERLUDE #3,1
 1272,Random House Publishing,0,Dean Koontz,0345536770,0,9.78035E+12,2012-07-08,by Dean Koontz,ODD INTERLUDE #2,1
 1273,Random House Publishing,0,Alan Furst,0679604227,0,9.78068E+12,2012-07-01,by Alan Furst,MISSION TO PARIS,1
-1274,HarperCollins Publishers,0,Dorothea Benton Frank,62194860,0,9.78006E+12,2012-07-01,by Dorothea Benton Frank,PORCH LIGHTS,1
+1274,HarperCollins Publishers,0,Dorothea Benton Frank,0062194860,0,9.78006E+12,2012-07-01,by Dorothea Benton Frank,PORCH LIGHTS,1
 1275,Penguin Group,0,Laurell K Hamilton,None,0,9.7811E+12,2012-06-24,by Laurell K. Hamilton,KISS THE DEAD,1
 1276,St. Martinâs Press,0,Mary Kay Andrews,1466802634,0,9.78147E+12,2012-06-24,by Mary Kay Andrews,SPRING FEVER,1
-1277,HarperCollins Publishers,0,Julia Quinn,62072919,0,9.78006E+12,2012-06-17,by Julia Quinn,A NIGHT LIKE THIS,1
-1278,HarperCollins Publishers,0,Rachel Gibson,62069136,0,9.78006E+12,2012-06-17,by Rachel Gibson,RESCUE ME,1
+1277,HarperCollins Publishers,0,Julia Quinn,0062072919,0,9.78006E+12,2012-06-17,by Julia Quinn,A NIGHT LIKE THIS,1
+1278,HarperCollins Publishers,0,Rachel Gibson,0062069136,0,9.78006E+12,2012-06-17,by Rachel Gibson,RESCUE ME,1
 1279,Harlequin,0,Susan Mallery,1459230051,0,9.78146E+12,2012-06-17,by Susan Mallery,SUMMER DAYS,1
 1280,Harlequin,0,Linda Lael Miller,1459230043,0,9.78146E+12,2012-06-17,by Linda Lael Miller,BIG SKY COUNTRY,1
 1281,Henry Holt & Company,0,Hilary Mantel,0805090037,0,9.78081E+12,2012-05-27,by Hilary Mantel,BRING UP THE BODIES,1
 1282,Simon & Schuster,0,Richard Paul Evans,1451628188,0,9.78145E+12,2012-05-27,by Richard Paul Evans,THE ROAD TO GRACE,1
 1283,Putnam,0,Amanda Quick,None,0,9.7811E+12,2012-05-13,by Amanda Quick,CRYSTAL GARDENS,1
-1284,HarperCollins Publishers,0,Lynsay Sands,62119370,0,9.78006E+12,2012-05-13,by Lynsay Sands,UNDER A VAMPIRE MOON,1
+1284,HarperCollins Publishers,0,Lynsay Sands,0062119370,0,9.78006E+12,2012-05-13,by Lynsay Sands,UNDER A VAMPIRE MOON,1
 1285,Penguin Group,0,Stuart Woods,None,0,9.7811E+12,2012-05-06,by Stuart Woods,UNNATURAL ACTS,1
 1286,St. Martinâs Press,0,Iris Johansen,1429952938,0,9.78143E+12,2012-05-06,by Iris Johansen,WHAT DOESN'T KILL YOU,1
 1287,St. Martinâs Press,0,Lisa Scottoline,1429942320,0,9.78143E+12,2012-04-29,by Lisa Scottoline,COME HOME,1
 1288,Elloraâs Cave Publishing,0,Laurann Dohner,None,0,9.78142E+12,2012-04-29,by Laurann Dohner,TIGER,1
-1289,HarperCollins Publishers,0,Christopher Moore,61779741,0,9.78006E+12,2012-04-22,by Christopher Moore,SACRÃ BLEU,1
+1289,HarperCollins Publishers,0,Christopher Moore,0061779741,0,9.78006E+12,2012-04-22,by Christopher Moore,SACRÃ BLEU,1
 1290,Knopf Doubleday Publishing,0,Alexander McCall Smith,0307378403,0,9.78031E+12,2012-04-22,by Alexander McCall Smith,THE LIMPOPO ACADEMY OF PRIVATE DETECTION,1
-1291,HarperCollins Publishers,0,Adriana Trigiani,62098063,0,9.78006E+12,2012-04-22,by Adriana Trigiani,THE SHOEMAKERâS WIFE,1
-1292,HarperCollins Publishers,0,Christopher Moore,61779741,0,9.78E+12,2012-04-22,by Christopher Moore,SACRÌä BLEU,1
-1293,HarperCollins Publishers,0,Adriana Trigiani,62098063,0,9.78E+12,2012-04-22,by Adriana Trigiani,THE SHOEMAKERÛªS WIFE,1
+1291,HarperCollins Publishers,0,Adriana Trigiani,0062098063,0,9.78006E+12,2012-04-22,by Adriana Trigiani,THE SHOEMAKERâS WIFE,1
+1292,HarperCollins Publishers,0,Christopher Moore,0061779741,0,9.78E+12,2012-04-22,by Christopher Moore,SACRÌä BLEU,1
+1293,HarperCollins Publishers,0,Adriana Trigiani,0062098063,0,9.78E+12,2012-04-22,by Adriana Trigiani,THE SHOEMAKERÛªS WIFE,1
 1294,Zondervan,0,Karen Kingsbury,0310427592,0,9.78031E+12,2012-04-15,by Karen Kingsbury,LOVING,1
 1295,Harlequin,0,Lori Foster,1459225651,0,9.78146E+12,2012-04-15,by Lori Foster,A PERFECT STORM,1
 1296,Penguin Group,0,C J Box,None,0,9.7811E+12,2012-04-08,by C. J. Box,FORCE OF NATURE,1
@@ -1302,14 +1302,14 @@
 1300,Elloraâs Cave,0,Laurann Dohner,None,0,9.78142E+12,2012-03-25,by Laurann Dohner,WRATH,1
 1301,Harlequin,0,Gena Showalter,1459222830,0,9.78146E+12,2012-03-18,by Gena Showalter,THE DARKEST SEDUCTION,1
 1302,St. Martinâs Press,0,Lisa Kleypas,1429938374,0,9.78143E+12,2012-03-18,by Lisa Kleypas,RAINSHADOW ROAD,1
-1303,HarperCollins Publishers,0,Kim Harrison,62101021,0,9.78006E+12,2012-03-11,by Kim Harrison,A PERFECT BLOOD,1
+1303,HarperCollins Publishers,0,Kim Harrison,0062101021,0,9.78006E+12,2012-03-11,by Kim Harrison,A PERFECT BLOOD,1
 1304,Simon & Schuster,0,J A Jance,1451628625,0,9.78145E+12,2012-02-26,by J. A. Jance,LEFT FOR DEAD,1
-1305,HarperCollins Publishers,0,Stephanie Laurens,62066226,0,9.78006E+12,2012-02-19,by Stephanie Laurens,THE CAPTURE OF THE EARL OF GLENCRAE,1
+1305,HarperCollins Publishers,0,Stephanie Laurens,0062066226,0,9.78006E+12,2012-02-19,by Stephanie Laurens,THE CAPTURE OF THE EARL OF GLENCRAE,1
 1306,Random House Publishing,0,Lara Adrian,0345529294,0,9.78035E+12,2012-02-12,by Lara Adrian,DARKER AFTER MIDNIGHT,1
 1307,Pocket Books,0,Sabrina Jeffries,1451642490,0,9.78145E+12,2012-02-12,by Sabrina Jeffries,A LADY NEVER SURRENDERS,1
 1308,"Little, Brown & Company",0,George Pelecanos,0316209554,0,9.78032E+12,2012-02-12,by George Pelecanos,WHAT IT WAS,1
-1309,HarperCollins Publishers,0,Jennifer McMahon,61807583,0,9.78006E+12,2012-02-05,by Jennifer McMahon,ISLAND OF LOST GIRLS,1
-1310,HarperCollins Publishers,0,Bernard Cornwell,62097113,0,9.78006E+12,2012-02-05,by Bernard Cornwell,DEATH OF KINGS,1
+1309,HarperCollins Publishers,0,Jennifer McMahon,0061807583,0,9.78006E+12,2012-02-05,by Jennifer McMahon,ISLAND OF LOST GIRLS,1
+1310,HarperCollins Publishers,0,Bernard Cornwell,0062097113,0,9.78006E+12,2012-02-05,by Bernard Cornwell,DEATH OF KINGS,1
 1311,St. Martin's Press,0,Nevada Barr,1429951133,0,9.78143E+12,2012-02-05,by Nevada Barr,THE ROPE,1
 1312,Simon & Schuster,0,Kresley Cole,1439177023,0,9.78144E+12,2012-01-29,by Kresley Cole,LOTHAIRE,1
 1313,Dutton,0,Lisa Gardner,None,0,9.7811E+12,2012-01-29,by Lisa Gardner,THE 7TH MONTH,1
@@ -1318,7 +1318,7 @@
 1316,Harlequin,0,Ron Carr,None,0,9.78146E+12,2012-01-15,by Robyn Carr,HIDDEN SUMMIT,1
 1317,Penguin Group,0,Christine Feehan,None,0,9.7811E+12,2012-01-15,by Christine Feehan,SPIRIT BOUND,1
 1318,Penguin Group,0,Lora Leigh,None,0,9.7811E+12,2011-12-25,by Lora Leigh,LAWE'S JUSTICE,1
-1319,HarperCollins Publishers,0,Garth Stein,61738093,0,9.78006E+12,2011-12-18,by Garth Stein,THE ART OF RACING IN THE RAIN,1
+1319,HarperCollins Publishers,0,Garth Stein,0061738093,0,9.78006E+12,2011-12-18,by Garth Stein,THE ART OF RACING IN THE RAIN,1
 1320,Zondervan,0,Karen Kingsbury,None,0,9.78031E+12,2011-12-11,by Karen Kingsbury,LONGING,1
 1321,Random House Publishing,0,Drew Karpyshyn,0345511344,0,9.78035E+12,2011-12-04,by Drew Karpyshyn,THE OLD REPUBLIC: REVAN,1
 1322,Tom Doherty Associates,0,Brandon Sanderson,1429994894,0,9.78143E+12,2011-11-27,by Brandon Sanderson,THE ALLOY OF LAW,1
@@ -1327,12 +1327,12 @@
 1325,Simon & Schuster,0,Richard Paul Evans,1451628005,0,9.78145E+12,2011-11-20,by Richard Paul Evans,LOST DECEMBER,1
 1326,Center Street,0,Ted Dekker,1599952602,0,9.7816E+12,2011-11-13,by Ted Dekker,BONEMAN'S DAUGHTERS,1
 1327,Threshold Editions,0,Glenn Beck,1439187207,0,9.78144E+12,2011-11-13,by Glenn Beck,THE SNOW ANGEL,1
-1328,HarperCollins Publishers,0,Guillermo del Toro and Chuck Hogan,62066048,0,9.78006E+12,2011-11-13,by Guillermo del Toro and Chuck Hogan,THE NIGHT ETERNAL,1
+1328,HarperCollins Publishers,0,Guillermo del Toro and Chuck Hogan,0062066048,0,9.78006E+12,2011-11-13,by Guillermo del Toro and Chuck Hogan,THE NIGHT ETERNAL,1
 1329,Tyndale House,0,Joel C Rosenberg,1414365365,0,9.78141E+12,2011-11-06,by Joel C. Rosenberg,THE TEHRAN INITIATIVE,1
 1330,Paragon Press,0,Douglas E Richards,None,0,9.78098E+12,2011-11-06,by Douglas E. Richards,WIRED,1
 1331,Knopf Doubleday Publishing,0,Julian Barnes,0307957330,0,9.78031E+12,2011-11-06,by Julian Barnes,THE SENSE OF AN ENDING,1
 1332,Simon & Schuster,0,Philippa Gregory,141656392X,0,9.78142E+12,2011-11-06,by Philippa Gregory,THE LADY OF THE RIVERS,1
-1333,HarperCollins Publishers,0,Terry Pratchett,62011847,0,9.78006E+12,2011-10-30,by Terry Pratchett,SNUFF,1
+1333,HarperCollins Publishers,0,Terry Pratchett,0062011847,0,9.78006E+12,2011-10-30,by Terry Pratchett,SNUFF,1
 1334,Atria,0,"James Wesley, Rawles",1439172803,0,9.78144E+12,2011-10-23,"by James Wesley, Rawles",SURVIVORS,1
 1335,Simon & Schuster,0,James Lee Burke,1451643144,0,9.78145E+12,2011-10-16,by James Lee Burke,FEAST DAY OF FOOLS,1
 1336,HQN,0,Susan Mallery,None,0,9.78146E+12,2011-10-16,by Susan Mallery,ONLY HIS,1
@@ -1340,7 +1340,7 @@
 1338,HarperCollins,0,Stephanie Laurens,None,0,9.78006E+12,2011-10-16,by Stephanie Laurens,IN PURSUIT OF ELIZA CYNSTER,1
 1339,Penguin Group,0,Stuart Woods,None,0,9.7811E+12,2011-10-09,by Stuart Woods,SON OF STONE,1
 1340,Thorndike,0,Fern Michaels,None,0,9.78142E+12,2011-10-09,by Fern Michaels,LISTEN TO YOUR HEART,1
-1341,HarperCollins,0,Neal Stephenson,61977969,0,9.78006E+12,2011-10-09,by Neal Stephenson,REAMDE,1
+1341,HarperCollins,0,Neal Stephenson,0061977969,0,9.78006E+12,2011-10-09,by Neal Stephenson,REAMDE,1
 1342,Center Street,0,Karen Kingsbury,1599951193,0,9.7816E+12,2011-10-02,by Karen Kingsbury,A THOUSAND TOMORROWS,1
 1343,Penguin Group,0,Michael Brandman,0399157840,0,9.7804E+12,2011-10-02,by Michael Brandman,ROBERT B. PARKERâS KILLING THE BLUES,1
 1344,St. Martin's,0,Jackie Collins,1429962232,0,9.78143E+12,2011-10-02,by Jackie Collins,GODDESS OF VENGEANCE,1
@@ -1361,11 +1361,11 @@
 1359,Harlequin,0,Lori Foster,None,0,9.78146E+12,2011-07-17,by Lori Foster,SAVOR THE DANGER,1
 1360,Zondervan,0,Karen Kingsbury,031042755X,0,9.78031E+12,2011-07-10,by Karen Kingsbury,LEARNING,1
 1361,Random House,0,Karin Slaughter,0345528220,0,9.78035E+12,2011-07-10,by Karin Slaughter,FALLEN,1
-1362,HarperCollins,0,Dorothea Benton Frank,61961272,0,9.78006E+12,2011-07-03,by Dorothea Benton Frank,FOLLY BEACH,1
+1362,HarperCollins,0,Dorothea Benton Frank,0061961272,0,9.78006E+12,2011-07-03,by Dorothea Benton Frank,FOLLY BEACH,1
 1363,Random House,0,Ann Brashares,0679605096,0,9.78068E+12,2011-07-03,by Ann Brashares,SISTERHOOD EVERLASTING,1
 1364,Penguin Group,0,Laurell K Hamilton,0425241130,0,9.78043E+12,2011-06-26,by Laurell K. Hamilton,HIT LIST,1
 1365,St. Martin's,0,Mary Kay Andrews,None,0,9.78143E+12,2011-06-26,by Mary Kay Andrews,SUMMER RENTAL,1
-1366,HarperCollins,0,Julia Quinn,62079530,0,9.78006E+12,2011-06-19,by Julia Quinn,JUST LIKE HEAVEN,1
+1366,HarperCollins,0,Julia Quinn,0062079530,0,9.78006E+12,2011-06-19,by Julia Quinn,JUST LIKE HEAVEN,1
 1367,Harlequin,0,Linda Lael Miller,0373775806,0,9.78037E+12,2011-06-19,by Linda Lael Miller,CREED'S HONOR,1
 1368,Mira,0,Sherryl Woods,None,0,9.78146E+12,2011-06-19,by Sherryl Woods,BEACH LANE,1
 1369,Penguin Group,0,Ilona Andrews,None,0,9.7811E+12,2011-06-19,by Ilona Andrews,MAGIC SLAYS,1
@@ -1375,7 +1375,7 @@
 1373,Penguin Group,0,Christine Feehan,0515149330,0,9.78052E+12,2011-05-15,by Christine Feehan,SAVAGE NATURE,1
 1374,Penguin Group,0,Stuart Woods,None,0,9.7811E+12,2011-05-15,by Stuart Woods,BEL-AIR DEAD,1
 1375,Harlequin,0,Sherryl Woods,0778329798,0,9.78078E+12,2011-05-15,by Sherryl Woods,MOONLIGHT COVE,1
-1376,HarperCollins,0,Rachel Gibson,62079166,0,9.78006E+12,2011-05-15,by Rachel Gibson,ANY MAN OF MINE,1
+1376,HarperCollins,0,Rachel Gibson,0062079166,0,9.78006E+12,2011-05-15,by Rachel Gibson,ANY MAN OF MINE,1
 1377,St. Martin's,0,Iris Johansen,1429920165,0,9.78143E+12,2011-05-08,by Iris Johansen,EVE,1
 1378,Penguin Group,0,Amanda Quick,None,0,9.7811E+12,2011-05-08,by Amanda Quick,QUICKSILVER,1
 1379,Penguin Group,0,Lora Leigh,None,0,9.7811E+12,2011-04-24,by Lora Leigh,NAVARRO'S PROMISE,1
@@ -1386,9 +1386,9 @@
 1384,Zondervan,0,Karen Kingsbury,0310266289,0,9.78031E+12,2011-04-10,by Karen Kingsbury,LEAVING,1
 1385,Random House,0,Tea Obreht,0385343833,0,9.78039E+12,2011-04-03,by Tea Obreht,THE TIGERâS WIFE,1
 1386,St. Martinâs,0,Lora Leigh,1429985356,0,9.78143E+12,2011-03-20,by Lora Leigh,LIVE WIRE,1
-1387,HarperCollins,0,Kim Harrison,61138061,0,9.78006E+12,2011-03-13,by Kim Harrison,PALE DEMON,1
+1387,HarperCollins,0,Kim Harrison,0061138061,0,9.78006E+12,2011-03-13,by Kim Harrison,PALE DEMON,1
 1388,Grand Central,0,Douglas Preston and Lincoln Child,044656432X,0,9.78045E+12,2011-03-13,by Douglas Preston and Lincoln Child,GIDEONâS SWORD,1
-1389,HarperCollins,0,Jeaniene Frost,62065793,0,9.78006E+12,2011-03-13,by Jeaniene Frost,THIS SIDE OF THE GRAVE,1
+1389,HarperCollins,0,Jeaniene Frost,0062065793,0,9.78006E+12,2011-03-13,by Jeaniene Frost,THIS SIDE OF THE GRAVE,1
 1390,Random House,0,Jamie Ford,0345512502,0,9.78035E+12,2011-03-06,by Jamie Ford,HOTEL ON THE CORNER OF BITTER AND SWEET,1
 1391,Penguin Group,0,Alex Berenson,None,0,9.7811E+12,2011-02-27,by Alex Berenson,THE SECRET SOLDIER,1
 1392,Simon & Schuster,0,JA Jance,141656389X,0,9.78142E+12,2011-02-20,by J.A. Jance,FATAL ERROR,1
@@ -1405,14 +1405,14 @@
 1403,Ilona Andrews,0,Ilona Andrews,1943772711,0,9.78194E+12,2017-01-08,by Ilona Andrews,ONE FELL SWEEP,0
 1404,"Little, Brown",0,Stephenie Meyer,0316387835,0,9.78032E+12,2017-01-01,by Stephenie Meyer,THE CHEMIST,0
 1405,HTJB,0,Marie Force,1946136034,0,9.78195E+12,2017-01-01,by Marie Force,LIGHT AFTER DARK,0
-1406,Harper/HarperCollins,0,Michael Chabon,62225553,0,9.78006E+12,2017-01-01,by Michael Chabon,MOONGLOW,0
+1406,Harper/HarperCollins,0,Michael Chabon,0062225553,0,9.78006E+12,2017-01-01,by Michael Chabon,MOONGLOW,0
 1407,Orbit,0,James S A Corey,0316217638,0,9.78032E+12,2016-12-25,by James S. A. Corey,BABYLON'S ASHES,0
 1408,"Little, Brown",0,James Patterson with Richard DiLallo,0316319996,0,9.78032E+12,2016-12-25,by James Patterson with Richard DiLallo,THE CHRISTMAS MYSTERY,0
 1409,Morrow/HarperCollins,0,Christina Baker Kline,None,0,9.78006E+12,2016-12-18,by Christina Baker Kline,ORPHAN TRAIN,0
 1410,Berkley,0,Jayne Ann Krentz,None,0,9.7807E+12,2016-12-18,by Jayne Ann Krentz,WHEN ALL THE GIRLS HAVE GONE,0
 1411,Putnam,0,Clive Cussler and Dirk Cussler,0399575510,0,9.7804E+12,2016-12-18,by Clive Cussler and Dirk Cussler,ODESSA SEA,0
 1412,Minotaur,0,Louise Penny,1250022126,0,9.78125E+12,2016-12-11,by Louise Penny,A GREAT RECKONING,0
-1413,Morrow,0,Patricia Cornwell,62436686,0,9.78006E+12,2016-12-11,by Patricia Cornwell,CHAOS,0
+1413,Morrow,0,Patricia Cornwell,0062436686,0,9.78006E+12,2016-12-11,by Patricia Cornwell,CHAOS,0
 1414,Bantam,0,Janet Evanovich,0345542975,0,9.78035E+12,2016-12-11,by Janet Evanovich,TRICKY TWENTY-TWO,0
 1415,Simon & Schuster,0,Mary Higgins Clark and Alafair Burke,1501108581,0,9.7815E+12,2016-12-11,by Mary Higgins Clark and Alafair Burke,THE SLEEPING BEAUTY KILLER,0
 1416,Penguin Press,0,Zadie Smith,1594203989,0,9.78159E+12,2016-12-04,by Zadie Smith,SWING TIME,0
@@ -1423,13 +1423,13 @@
 1421,Rutherford,0,Jana Aston,069252777X,0,9.78069E+12,2016-11-27,by Jana Aston,WRONG,0
 1422,Anchor,0,Dan Brown,1101972971,0,9.7811E+12,2016-11-27,by Dan Brown,INFERNO,0
 1423,Rutherford,0,Jana Aston,0998244414,0,9.781E+12,2016-11-27,by Jana Aston,TRUST,0
-1424,Harper/HarperCollins,0,Ann Patchett,62491814,0,9.78006E+12,2016-11-20,by Ann Patchett,COMMONWEALTH,0
+1424,Harper/HarperCollins,0,Ann Patchett,0062491814,0,9.78006E+12,2016-11-20,by Ann Patchett,COMMONWEALTH,0
 1425,"Farrar, Straus & Giroux",0,Paul Beatty,1250083257,0,9.78125E+12,2016-11-20,by Paul Beatty,THE SELLOUT,0
 1426,"Little, Brown",0,Michael Connelly,1455524158,0,9.78146E+12,2016-11-20,by Michael Connelly,THE CROSSING,0
 1427,Baen Books,0,David Weber,None,0,9.78163E+12,2016-11-20,by David Weber,SHADOW OF VICTORY,0
 1428,KT Publishing,0,Katy Evans,0997263636,0,9.781E+12,2016-11-20,by Katy Evans,MR. PRESIDENT,0
 1429,Grand Central,0,Douglas Preston and Lincoln Child,1455536911,0,9.78146E+12,2016-11-13,by Douglas Preston and Lincoln Child,THE OBSIDIAN CHAMBER,0
-1430,Morrow,0,Susan Wiggs,62425471,0,9.78006E+12,2016-11-13,by Susan Wiggs,FAMILY TREE,0
+1430,Morrow,0,Susan Wiggs,0062425471,0,9.78006E+12,2016-11-13,by Susan Wiggs,FAMILY TREE,0
 1431,Flip City Media,0,C D Reiss,1942833288,0,9.78194E+12,2016-11-13,by C. D. Reiss,MARRIAGE GAMES,0
 1432,Scribner,0,M L Stedman,1451681763,0,9.78145E+12,2016-11-06,by M. L. Stedman,THE LIGHT BETWEEN OCEANS,0
 1433,Dial,0,Annie Barrows,0812997840,0,9.78081E+12,2016-11-06,by Annie Barrows,THE TRUTH ACCORDING TO US,0
@@ -1441,10 +1441,10 @@
 1439,Knopf,0,Carl Hiaasen,0385349750,0,9.78039E+12,2016-10-23,by Carl Hiaasen,RAZOR GIRL,0
 1440,St. Martin's,0,Jeffrey Archer,1466867507,0,9.78147E+12,2016-10-23,by Jeffrey Archer,COMETH THE HOUR,0
 1441,St. Martin's Griffin,0,Diane Chamberlain,1250010721,0,9.78125E+12,2016-10-16,by Diane Chamberlain,THE SILENT SISTER,0
-1442,Avon,0,Tessa Dare,62349058,0,9.78006E+12,2016-10-16,by Tessa Dare,DO YOU WANT TO START A SCANDAL,0
-1443,Avon,0,Jill Shalvis,62448056,0,9.78006E+12,2016-10-16,by Jill Shalvis,THE TROUBLE WITH MISTLETOE,0
+1442,Avon,0,Tessa Dare,0062349058,0,9.78006E+12,2016-10-16,by Tessa Dare,DO YOU WANT TO START A SCANDAL,0
+1443,Avon,0,Jill Shalvis,0062448056,0,9.78006E+12,2016-10-16,by Jill Shalvis,THE TROUBLE WITH MISTLETOE,0
 1444,HTJB,0,Marie Force,1942295839,0,9.78194E+12,2016-10-16,by Marie Force,SEX MACHINE,0
-1445,Morrow/HarperCollins,0,Karin Slaughter,62430238,0,9.78006E+12,2016-10-16,by Karin Slaughter,THE KEPT WOMAN,0
+1445,Morrow/HarperCollins,0,Karin Slaughter,0062430238,0,9.78006E+12,2016-10-16,by Karin Slaughter,THE KEPT WOMAN,0
 1446,Putnam,0,Clive Cussler and Robin Burcell,0399183973,0,9.7804E+12,2016-10-09,by Clive Cussler and Robin Burcell,PIRATE,0
 1447,EverAfter Romance,0,Penelope Ward and Vi Keeland,1942215495,0,9.78194E+12,2016-10-09,by Penelope Ward and Vi Keeland,PLAYBOY PILOT,0
 1448,Doubleday,0,John Grisham,0553393480,0,9.78055E+12,2016-10-09,by John Grisham,ROGUE LAWYER,0
@@ -1452,12 +1452,12 @@
 1450,Grand Central,0,Sandra Brown,1455581232,0,9.78146E+12,2016-10-02,by Sandra Brown,STING,0
 1451,Penguin,0,Jojo Moyes,0143130153,0,9.78014E+12,2016-10-02,by Jojo Moyes,ME BEFORE YOU,0
 1452,Atria,0,William Kent Krueger,1476749280,0,9.78148E+12,2016-09-25,by William Kent Krueger,MANITOU CANYON,0
-1453,Morrow/HarperCollins,0,Patricia Cornwell,62325426,0,9.78006E+12,2016-09-25,by Patricia Cornwell,DEPRAVED HEART,0
+1453,Morrow/HarperCollins,0,Patricia Cornwell,0062325426,0,9.78006E+12,2016-09-25,by Patricia Cornwell,DEPRAVED HEART,0
 1454,Pamela Dorman/Viking,0,Jojo Moyes,0143108867,0,9.78014E+12,2016-09-25,by Jojo Moyes,AFTER YOU,0
 1455,Knopf,0,Nathan Hill,1101946628,0,9.7811E+12,2016-09-18,by Nathan Hill,THE NIX,0
-1456,HarperCollins,0,Jodi Picoult,61980242,0,9.78006E+12,2016-09-11,by Jodi Picoult,THE PACT,0
+1456,HarperCollins,0,Jodi Picoult,0061980242,0,9.78006E+12,2016-09-11,by Jodi Picoult,THE PACT,0
 1457,Fine Line,0,Eva Natiello,None,0,A00B00LAI2SV0,2016-09-11,by Eva Natiello,THE MEMORY BOX,0
-1458,Harper,0,Daniel Silva,62320246,0,9.78006E+12,2016-09-04,by Daniel Silva,THE BLACK WIDOW,0
+1458,Harper,0,Daniel Silva,0062320246,0,9.78006E+12,2016-09-04,by Daniel Silva,THE BLACK WIDOW,0
 1459,Berkley,0,Joanna Wylde,None,0,9.7811E+12,2016-08-28,by Joanna Wylde,REAPER'S FIRE,0
 1460,Atria,0,Colleen Hoover,1501110373,0,9.7815E+12,2016-08-28,by Colleen Hoover,IT ENDS WITH US,0
 1461,Vi Keeland,0,Vi Keeland,1942215460,0,9.78194E+12,2016-08-21,by Vi Keeland,BOSSMAN,0
@@ -1471,10 +1471,10 @@
 1469,Del Rey,0,Chuck Wendig,1101966947,0,9.7811E+12,2016-07-31,by Chuck Wendig,LIFE DEBT: AFTERMATH,0
 1470,"Little, Brown",0,Elin Hilderbrand,0316375152,0,9.78032E+12,2016-07-31,by Elin Hilderbrand,HERE'S TO US,0
 1471,"Little, Brown",0,Michael Connelly,0759525781,0,9.78076E+12,2016-07-31,by Michael Connelly,THE BLACK ICE,0
-1472,Morrow,0,Laura Lippman,61796786,0,9.78006E+12,2016-07-24,by Laura Lippman,WHAT THE DEAD KNOW,0
+1472,Morrow,0,Laura Lippman,0061796786,0,9.78006E+12,2016-07-24,by Laura Lippman,WHAT THE DEAD KNOW,0
 1473,EverAfter Romance,0,Alessandra Torre,1940941776,0,9.78194E+12,2016-07-24,by Alessandra Torre,MOONSHOT,0
 1474,BAAE,0,Corinne Michaels,1942834187,0,9.78194E+12,2016-07-24,by Corinne Michaels,SAY YOU'LL STAY,0
-1475,Avon Impulse,0,Eloisa James,62573063,0,9.78006E+12,2016-07-17,by Eloisa James,A GENTLEMAN NEVER TELLS,0
+1475,Avon Impulse,0,Eloisa James,0062573063,0,9.78006E+12,2016-07-17,by Eloisa James,A GENTLEMAN NEVER TELLS,0
 1476,"Little, Brown",0,James Patterson,0316317144,0,9.78032E+12,2016-07-17,by James Patterson,CROSS KILL,0
 1477,Dutton,0,Brad Taylor,None,0,9.7807E+12,2016-07-17,by Brad Taylor,GHOSTS OF WAR,0
 1478,Avon,0,Jill Shalvis,006244803X,0,9.78006E+12,2016-07-17,by Jill Shalvis,SWEET LITTLE LIES,0
@@ -1485,37 +1485,37 @@
 1483,Putnam,0,Nora Roberts,0515154121,0,9.78052E+12,2016-07-03,by Nora Roberts,THE COLLECTOR,0
 1484,Scribner,0,Annie Proulx,0743288785,0,9.78074E+12,2016-07-03,by Annie Proulx,BARKSKINS,0
 1485,DLZ Entertainment,0,Lexi Blake,1937608514,0,9.78194E+12,2016-07-03,by Lexi Blake,DOMINANCE NEVER DIES,0
-1486,Avon,0,Lisa Kleypas,62371851,0,9.78006E+12,2016-06-26,by Lisa Kleypas,MARRYING WINTERBORNE,0
-1487,Morrow/HarperCollins,0,Stephanie Dray and Laura Kamoie,62347276,0,9.78006E+12,2016-06-26,by Stephanie Dray and Laura Kamoie,AMERICA'S FIRST DAUGHTER,0
-1488,Morrow/HarperCollins,0,Dorothea Benton Frank,62390759,0,9.78006E+12,2016-06-26,by Dorothea Benton Frank,ALL SUMMER LONG,0
+1486,Avon,0,Lisa Kleypas,0062371851,0,9.78006E+12,2016-06-26,by Lisa Kleypas,MARRYING WINTERBORNE,0
+1487,Morrow/HarperCollins,0,Stephanie Dray and Laura Kamoie,0062347276,0,9.78006E+12,2016-06-26,by Stephanie Dray and Laura Kamoie,AMERICA'S FIRST DAUGHTER,0
+1488,Morrow/HarperCollins,0,Dorothea Benton Frank,0062390759,0,9.78006E+12,2016-06-26,by Dorothea Benton Frank,ALL SUMMER LONG,0
 1489,Crown/Archetype,0,Terry McMillan,1101902574,0,9.7811E+12,2016-06-26,by Terry McMillan,I ALMOST FORGOT ABOUT YOU,0
 1490,Ballantine,0,Nancy Thayer,1101967064,0,9.7811E+12,2016-06-19,by Nancy Thayer,THE ISLAND HOUSE,0
 1491,Riverhead,0,Emma Straub,None,0,9.7807E+12,2016-06-19,by Emma Straub,MODERN LOVERS,0
 1492,Ballantine,0,Tess Gerritsen,0345449436,0,9.78035E+12,2016-06-19,by Tess Gerritsen,THE SURGEON,0
-1493,Morrow/HarperCollins,0,Joe Hill,62200631,0,9.78006E+12,2016-06-12,by Joe Hill,THE FIREMAN,0
+1493,Morrow/HarperCollins,0,Joe Hill,0062200631,0,9.78006E+12,2016-06-12,by Joe Hill,THE FIREMAN,0
 1494,HTJB,0,Marie Force,1942295502,0,9.78194E+12,2016-06-12,by Marie Force,DESIRE AFTER DARK,0
 1495,Knopf,0,Stephanie Danler,110187595X,0,9.7811E+12,2016-06-12,by Stephanie Danler,SWEETBITTER,0
 1496,Minotaur,0,Nevada Barr,1466870931,0,9.78E+12,2016-06-05,by Nevada Barr,BOAR ISLAND,0
-1497,Morrow,0,Steve Martini,62328972,0,9.78E+12,2016-06-05,by Steve Martini,BLOOD FLAG,0
+1497,Morrow,0,Steve Martini,0062328972,0,9.78E+12,2016-06-05,by Steve Martini,BLOOD FLAG,0
 1498,Putnam,0,Steve Hamilton,0399574336,0,9.78E+12,2016-06-05,by Steve Hamilton,THE SECOND LIFE OF NICK MASON,0
 1499,Random House,0,Curtis Sittenfeld,0812997611,0,9.78E+12,2016-05-29,by Curtis Sittenfeld,ELIGIBLE,0
 1500,"Little, Brown",0,James Patterson and Maxine Paetro,1455584983,0,9.78E+12,2016-05-29,by James Patterson and Maxine Paetro,14TH DEADLY SIN,0
-1501,Harper,0,Louise Erdrich,62277022,0,9.78E+12,2016-05-29,by Louise Erdrich,LAROSE,0
+1501,Harper,0,Louise Erdrich,0062277022,0,9.78E+12,2016-05-29,by Louise Erdrich,LAROSE,0
 1502,Bantam,0,Janet Evanovich and Lee Goldberg,0345543068,0,9.78E+12,2016-05-22,by Janet Evanovich and Lee Goldberg,THE HEIST,0
 1503,Ace,0,Charlaine Harris,1101598832,0,9.78E+12,2016-05-22,by Charlaine Harris,NIGHT SHIFT,0
 1504,Simon & Schuster,0,Mary Higgins Clark,1501130447,0,9.78E+12,2016-05-22,by Mary Higgins Clark,AS TIME GOES BY,0
-1505,Morrow,0,Shelley Noble,62319183,0,9.78E+12,2016-05-15,by Shelley Noble,WHISPER BEACH,0
+1505,Morrow,0,Shelley Noble,0062319183,0,9.78E+12,2016-05-15,by Shelley Noble,WHISPER BEACH,0
 1506,Thomas Nelson,0,Rachel Hauck,1401686311,0,9.78E+12,2016-05-15,by Rachel Hauck,THE WEDDING DRESS,0
 1507,Mira,0,Stephanie Laurens,1459294033,0,9.78E+12,2016-05-15,by Stephanie Laurens,A BUCCANEER AT HEART,0
 1508,Delacorte,0,Lee Child,0804178798,0,9.78E+12,2016-05-08,by Lee Child,MAKE ME,0
 1509,Crown,0,Andy Weir,None,0,9.78E+12,2016-05-08,by Andy Weir,THE MARTIAN,0
-1510,Morrow,0,James Rollins and Grant Blackwood,62135309,0,9.78E+12,2016-05-08,by James Rollins and Grant Blackwood,WAR HAWK,0
+1510,Morrow,0,James Rollins and Grant Blackwood,0062135309,0,9.78E+12,2016-05-08,by James Rollins and Grant Blackwood,WAR HAWK,0
 1511,Putnam,0,Stuart Woods,None,0,9.78E+12,2016-05-01,by Stuart Woods,FAMILY JEWELS,0
 1512,Random House,0,Anna Quindlen,0812996089,0,9.78E+12,2016-05-01,by Anna Quindlen,MILLER'S VALLEY,0
 1513,Doubleday,0,John Grisham,0385541929,0,9.78E+12,2016-05-01,by John Grisham,PARTNERS,0
 1514,Berkley,0,Jennifer Ashley,None,0,9.78E+12,2016-04-24,by Jennifer Ashley,WHITE TIGER,0
 1515,Bantam,0,Laurie R King,0804177910,0,9.78E+12,2016-04-24,by Laurie R. King,THE MURDER OF MARY RUSSELL,0
-1516,Avon,0,Julia Quinn,62388150,0,9.78E+12,2016-04-24,by Julia Quinn,BECAUSE OF MISS BRIDGERTON,0
+1516,Avon,0,Julia Quinn,0062388150,0,9.78E+12,2016-04-24,by Julia Quinn,BECAUSE OF MISS BRIDGERTON,0
 1517,Kensington,0,Fern Michaels,1617734616,0,9.78E+12,2016-04-17,by Fern Michaels,NO SAFE SECRET,0
 1518,Delacorte,0,Danielle Steel,0804179662,0,9.78E+12,2016-04-17,by Danielle Steel,PROPERTY OF A NOBLEWOMAN,0
 1519,Avon Impulse,0,Linda Howard,006242226X,0,9.78E+12,2016-04-10,by Linda Howard,HEARTBREAKER,0
@@ -1528,7 +1528,7 @@
 1526,Dutton,0,Lisa Gardner,069840422X,0,9.78E+12,2016-03-27,by Lisa Gardner,FIND HER,0
 1527,Gallery,0,Christina Lauren,1501131222,0,9.78E+12,2016-03-20,by Christina Lauren,BEAUTIFUL BOSS,0
 1528,Ballantine,0,Debbie Macomber,0553391925,0,9.78E+12,2016-03-20,by Debbie Macomber,A GIRL'S GUIDE TO MOVING ON,0
-1529,Morrow,0,Steve Martini,62328948,0,9.78E+12,2016-03-20,by Steve Martini,THE ENEMY INSIDE,0
+1529,Morrow,0,Steve Martini,0062328948,0,9.78E+12,2016-03-20,by Steve Martini,THE ENEMY INSIDE,0
 1530,"Little, Brown",0,James Patterson and Marshall Karp,0316288721,0,9.78E+12,2016-03-13,by James Patterson and Marshall Karp,NYPD RED 4,0
 1531,Berkley,0,J D Robb,None,0,9.78E+12,2016-03-13,by J. D. Robb,BROTHERHOOD IN DEATH,0
 1532,DLZ Entertainment,0,Lexi Blake,1937608492,0,9.78E+12,2016-03-13,by Lexi Blake,FROM SANCTUM WITH LOVE,0
@@ -1537,7 +1537,7 @@
 1535,Dutton,0,Harlan Coben,0451414136,0,9.78E+12,2016-03-06,by Harlan Coben,THE STRANGER,0
 1536,Mira,0,Ron Carr,1459295498,0,9.78E+12,2016-03-06,by Robyn Carr,BACKWARD GLANCE,0
 1537,Delacorte,0,Danielle Steel,None,0,9.78E+12,2016-02-28,by Danielle Steel,BLUE,0
-1538,Harper Perennial,0,Liane Moriarty,62008676,0,9.78E+12,2016-02-28,by Liane Moriarty,THE LAST ANNIVERSARY,0
+1538,Harper Perennial,0,Liane Moriarty,0062008676,0,9.78E+12,2016-02-28,by Liane Moriarty,THE LAST ANNIVERSARY,0
 1539,Waterhouse,0,Audrey Carlan,None,0,A00B013CVOJEG,2016-02-28,by Audrey Carlan,JANUARY,0
 1540,Jamie McGuire,0,Jamie McGuire,None,0,9.78E+12,2016-02-21,by Jamie McGuire,BEAUTIFUL BURN,0
 1541,Vi Keeland,0,Vi Keeland,1942215355,0,9.78E+12,2016-02-21,by Vi Keeland,THE BALLER,0
@@ -1555,8 +1555,8 @@
 1553,Doubleday,0,Chris Bohjalian,0385538901,0,9.78E+12,2016-01-24,by Chris Bohjalian,THE GUEST ROOM,0
 1554,ePublishing Works!,0,Jeanne Glidewell,1614177821,0,9.78E+12,2016-01-24,by Jeanne Glidewell,LEXIE STARR COZY MYSTERIES BOXED SET,0
 1555,Waterhouse Press,0,Audrey Carlan,None,0,A00B013CPIN1W,2016-01-24,by Audrey Carlan,MARCH,0
-1556,Witness Impulse,0,James Hayman,62435159,0,9.78E+12,2016-01-17,by James Hayman,THE GIRL IN THE GLASS,0
-1557,Avon,0,Sarah MacLean,62379399,0,9.78E+12,2016-01-17,by Sarah MacLean,THE ROGUE NOT TAKEN,0
+1556,Witness Impulse,0,James Hayman,0062435159,0,9.78E+12,2016-01-17,by James Hayman,THE GIRL IN THE GLASS,0
+1557,Avon,0,Sarah MacLean,0062379399,0,9.78E+12,2016-01-17,by Sarah MacLean,THE ROGUE NOT TAKEN,0
 1558,Putnam,0,Mark Greaney,0698410610,0,9.78E+12,2016-01-17,by Mark Greaney,TOM CLANCY: COMMANDER IN CHIEF,0
 1559,Riverhead,0,Lauren Groff,1594634475,0,9.78E+12,2016-01-10,by Lauren Groff,FATES AND FURIES,0
 1560,Bantam,0,George R R Martin,0345533488,0,9.78E+12,2016-01-10,by George R. R. Martin,A KNIGHT OF THE SEVEN KINGDOMS,0
@@ -1578,9 +1578,9 @@
 1576,Random House,0,David Mitchell,0812998685,0,9.78E+12,2015-11-15,by David Mitchell,SLADE HOUSE,0
 1577,Zebra,0,Fern Michaels,1420136666,0,9.78E+12,2015-11-15,by Fern Michaels,WISHES FOR CHRISTMAS,0
 1578,Berkley,0,Kay Hooper,None,0,9.78E+12,2015-11-08,by Kay Hooper,FEAR THE DARK,0
-1579,Harper,0,Michael Crichton,61938742,0,9.78E+12,2015-11-08,by Michael Crichton,PIRATE LATITUDES,0
+1579,Harper,0,Michael Crichton,0061938742,0,9.78E+12,2015-11-08,by Michael Crichton,PIRATE LATITUDES,0
 1580,Doubleday,0,John Grisham,0345543254,0,9.78E+12,2015-11-08,by John Grisham,GRAY MOUNTAIN,0
-1581,Harper,0,Adriana Trigiani,62319213,0,9.78E+12,2015-11-01,by Adriana Trigiani,ALL THE STARS IN THE HEAVENS,0
+1581,Harper,0,Adriana Trigiani,0062319213,0,9.78E+12,2015-11-01,by Adriana Trigiani,ALL THE STARS IN THE HEAVENS,0
 1582,Berkley,0,Nora Roberts,None,0,9.78E+12,2015-11-01,by Nora Roberts,DANCE UPON THE AIR,0
 1583,"Little, Brown",0,Elin Hilderbrand,0316261122,0,9.78E+12,2015-11-01,by Elin Hilderbrand,WINTER STROLL,0
 1584,Mira,0,Sherryl Woods,0778317668,0,9.78E+12,2015-10-25,by Sherryl Woods,WILLOW BROOK ROAD,0
@@ -1604,8 +1604,8 @@
 1602,Jove,0,Nalini Singh,None,0,9.78E+12,2015-09-20,by Nalini Singh,ARCHANGEL'S ENIGMA,0
 1603,Ballantine,0,Jonathan Kellerman,080417749X,0,9.78E+12,2015-09-13,by Jonathan Kellerman,THE MURDERER'S DAUGHTER,0
 1604,HQN,0,Lori Foster,1460384067,0,9.78E+12,2015-09-13,by Lori Foster,TOUGH LOVE,0
-1605,Morrow,0,Christopher Moore,61779784,0,9.78E+12,2015-09-13,by Christopher Moore,SECONDHAND SOULS,0
-1606,Avon,0,Tessa Dare,62349031,0,9.78E+12,2015-09-13,by Tessa Dare,WHEN A SCOT TIES THE KNOT,0
+1605,Morrow,0,Christopher Moore,0061779784,0,9.78E+12,2015-09-13,by Christopher Moore,SECONDHAND SOULS,0
+1606,Avon,0,Tessa Dare,0062349031,0,9.78E+12,2015-09-13,by Tessa Dare,WHEN A SCOT TIES THE KNOT,0
 1607,C. Scott Publishing,0,Penelope Ward and Vi Keeland,1942215215,0,9.78E+12,2015-09-13,by Penelope Ward and Vi Keeland,COCKY BASTARD,0
 1608,Jamie McGuire,0,Jamie McGuire,None,0,A00B00XB7J2EO,2015-09-06,by Jamie McGuire,SOMETHING BEAUTIFUL,0
 1609,Ballantine,0,Debbie Macomber,None,0,9.78E+12,2015-09-06,by Debbie Macomber,SILVER LININGS,0
@@ -1618,12 +1618,12 @@
 1616,"Little, Brown",0,Elin Hilderbrand,0316334502,0,9.78E+12,2015-08-23,by Elin Hilderbrand,THE RUMOR,0
 1617,Pitch73,0,Leylah Attar,None,0,9.78E+12,2015-08-23,by Leylah Attar,THE PAPER SWAN,0
 1618,Story Ink,0,Cora Seton and others,None,0,A00B00XEZ19OE,2015-08-23,by Cora Seton and others,12-ALARM COWBOYS,0
-1619,Harper,0,Daniel Silva,62320157,0,9.78E+12,2015-08-23,by Daniel Silva,THE ENGLISH SPY,0
+1619,Harper,0,Daniel Silva,0062320157,0,9.78E+12,2015-08-23,by Daniel Silva,THE ENGLISH SPY,0
 1620,Simon & Schuster,0,Alice Hoffman,1451693613,0,9.78E+12,2015-08-23,by Alice Hoffman,THE MARRIAGE OF OPPOSITES,0
 1621,Evil Eye Concepts,0,Cherise Sinclair,1940887917,0,9.78E+12,2015-08-16,by Cherise Sinclair,SERVICING THE TARGET,0
 1622,Mira,0,Heather Graham,None,0,9.78E+12,2015-08-16,by Heather Graham,THE FORGOTTEN,0
 1623,"Little, Brown",0,James Patterson and Howard Roughan,0316408735,0,9.78E+12,2015-08-16,by James Patterson and Howard Roughan,TRUTH OR DIE,0
-1624,Witness Impulse,0,J A Jance,62418483,0,9.78E+12,2015-08-09,by J. A. Jance,STAND DOWN,0
+1624,Witness Impulse,0,J A Jance,0062418483,0,9.78E+12,2015-08-09,by J. A. Jance,STAND DOWN,0
 1625,Putnam,0,Stuart Woods,None,0,9.78E+12,2015-08-09,by Stuart Woods,NAKED GREED,0
 1626,"Little, Brown",0,James Patterson and Michael Ledwidge,0316097438,0,9.78E+12,2015-08-09,by James Patterson and Michael Ledwidge,ZOO,0
 1627,Knopf,0,Judy Blume,1101875054,0,9.78E+12,2015-08-09,by Judy Blume,IN THE UNLIKELY EVENT,0
@@ -1641,7 +1641,7 @@
 1639,Grand Central,0,Nelson DeMille,145558231X,0,9.78E+12,2015-07-12,by Nelson DeMille,RADIANT ANGEL,0
 1640,St. Martin's,0,Jane Green,1466847743,0,9.78E+12,2015-07-12,by Jane Green,SUMMER SECRETS,0
 1641,St. Martin's,0,Jackie Collins,1466848901,0,9.78E+12,2015-07-05,by Jackie Collins,THE SANTANGELOS,0
-1642,Morrow/HarperCollins,0,Dorothea Benton Frank,62132563,0,9.78E+12,2015-07-05,by Dorothea Benton Frank,ALL THE SINGLE LADIES,0
+1642,Morrow/HarperCollins,0,Dorothea Benton Frank,0062132563,0,9.78E+12,2015-07-05,by Dorothea Benton Frank,ALL THE SINGLE LADIES,0
 1643,St. Martin's,0,Barbara Delinsky,None,0,9.78E+12,2015-06-28,by Barbara Delinsky,BLUEPRINTS,0
 1644,Loveswept,0,Sawyer Bennett,1101886773,0,9.78E+12,2015-06-28,by Sawyer Bennett,ZACK,0
 1645,Putnam,0,Clive Cussler and Boyd Morrison,None,0,9.78E+12,2015-06-28,by Clive Cussler and Boyd Morrison,PIRANHA,0
@@ -1651,7 +1651,7 @@
 1649,NAL,0,Samantha Young,None,0,9.78E+12,2015-06-21,by Samantha Young,MOONLIGHT ON NIGHTINGALE WAY,0
 1650,7th House,0,Gennita Low,None,0,9.78E+12,2015-06-14,by Gennita Low,SUMMER FIRE,0
 1651,Touchstone,0,Philippa Gregory,1416563911,0,9.78E+12,2015-06-14,by Philippa Gregory,THE WHITE QUEEN,0
-1652,Morrow/HarperCollins,0,Neal Stephenson,62190377,0,9.78E+12,2015-06-14,by Neal Stephenson,SEVENEVES,0
+1652,Morrow/HarperCollins,0,Neal Stephenson,0062190377,0,9.78E+12,2015-06-14,by Neal Stephenson,SEVENEVES,0
 1653,St. Martin's,0,Sherrilyn Kenyon,None,0,9.78E+12,2015-05-31,by Sherrilyn Kenyon,BORN OF DEFIANCE,0
 1654,Morrow/HarperCollins,0,Greg Iles,006231114X,0,9.78E+12,2015-05-31,by Greg Iles,THE BONE TREE,0
 1655,J. S. Cooper,0,J S Cooper and Helen Cooper,None,0,A00B00TCQPCN8,2015-05-31,by J. S. Cooper and Helen Cooper,FALLING FOR MY BOSS,0
@@ -1679,7 +1679,7 @@
 1677,Pocket,0,Lisa Genova,1439157030,0,9.78E+12,2015-04-19,by Lisa Genova,STILL ALICE,0
 1678,Forever,0,Rebecca Zanetti,145557449X,0,9.78E+12,2015-04-19,by Rebecca Zanetti,TOTAL SURRENDER,0
 1679,Vintage,0,E L James,1612130615,0,9.78E+12,2015-04-12,by E. L. James,FIFTY SHADES FREED,0
-1680,Witness Impulse,0,Eric Rickstad,62351516,0,9.78E+12,2015-04-12,by Eric Rickstad,THE SILENT GIRLS,0
+1680,Witness Impulse,0,Eric Rickstad,0062351516,0,9.78E+12,2015-04-12,by Eric Rickstad,THE SILENT GIRLS,0
 1681,Knopf Doubleday Publishing Group,0,Lincoln Child,0307387682,0,9.78E+12,2015-04-12,by Lincoln Child,DEEP STORM,0
 1682,Vintage,0,E L James,None,0,9.78E+12,2015-04-05,by E. L. James,FIFTY SHADES OF GREY,0
 1683,Kendall Ryan,0,Kendall Ryan,None,0,A00B00UKLMFUC,2015-04-05,by Kendall Ryan,RECKLESS LOVE,0
@@ -1702,19 +1702,19 @@
 1700,Harper Sloan,0,Harper Sloan,None,0,A00B00SQILV1A,2015-03-08,by Harper Sloan,UNEXPECTED FATE,0
 1701,Gallery,0,Kresley Cole,1451650108,0,9.78E+12,2015-03-08,by Kresley Cole,THE MASTER,0
 1702,Howard Books,0,Allison Pataki,None,0,9.78E+12,2015-03-08,by Allison Pataki,THE ACCIDENTAL EMPRESS,0
-1703,Morrow/HarperCollins,0,James Rollins and Rebecca Cantrell,62343289,0,9.78E+12,2015-03-01,by James Rollins and Rebecca Cantrell,BLOOD INFERNAL,0
+1703,Morrow/HarperCollins,0,James Rollins and Rebecca Cantrell,0062343289,0,9.78E+12,2015-03-01,by James Rollins and Rebecca Cantrell,BLOOD INFERNAL,0
 1704,NAL,0,Samantha Young,None,0,9.78E+12,2015-02-22,by Samantha Young,HERO,0
-1705,Morrow,0,Neil Gaiman,62330268,0,9.78E+12,2015-02-22,by Neil Gaiman,TRIGGER WARNING,0
+1705,Morrow,0,Neil Gaiman,0062330268,0,9.78E+12,2015-02-22,by Neil Gaiman,TRIGGER WARNING,0
 1706,J.S. Cooper,0,JÛäS Cooper and Helen Cooper,1940218330,0,9.78E+12,2015-02-15,by J.ÛäS. Cooper and Helen Cooper,ONE NIGHT STAND,0
 1707,Bantam,0,Dean Koontz,None,0,9.78E+12,2015-02-15,by Dean Koontz,SAINT ODD,0
 1708,"Little, Brown",0,Michael Connelly,0316225924,0,9.78E+12,2015-02-08,by Michael Connelly,THE BURNING ROOM,0
 1709,Story Ink,0,Elle James,None,0,A00B00PKTN7SI,2015-02-08,by Elle James,COWBOY 12 PACK,0
 1710,Random House,0,Rachel Joyce,067964511X,0,9.78E+12,2015-02-08,by Rachel Joyce,THE UNLIKELY PILGRIMAGE OF HAROLD FRY,0
-1711,Morrow/HarperCollins,0,Dorothea Benton Frank,62132458,0,9.78E+12,2015-02-01,by Dorothea Benton Frank,THE LAST ORIGINAL WIFE,0
+1711,Morrow/HarperCollins,0,Dorothea Benton Frank,0062132458,0,9.78E+12,2015-02-01,by Dorothea Benton Frank,THE LAST ORIGINAL WIFE,0
 1712,WGW,0,Whitney Gracia Williams,0990317072,0,9.78E+12,2015-02-01,by Whitney Gracia Williams,REASONABLE DOUBT FULL SERIES,0
 1713,Putnam,0,Stuart Woods,None,0,9.78E+12,2015-02-01,by Stuart Woods,INSATIABLE APPETITES,0
 1714,Delacorte,0,Alan Bradley,0345539958,0,9.78E+12,2015-01-25,by Alan Bradley,AS CHIMNEY SWEEPERS COME TO DUST,0
-1715,Harper,0,Bernard Cornwell,62250744,0,9.78E+12,2015-01-25,by Bernard Cornwell,THE EMPTY THRONE,0
+1715,Harper,0,Bernard Cornwell,0062250744,0,9.78E+12,2015-01-25,by Bernard Cornwell,THE EMPTY THRONE,0
 1716,Deborah Bladon,0,Deborah Bladon,None,0,9.78E+12,2015-01-18,by Deborah Bladon,GONE - PART THREE,0
 1717,Berkley,0,Sylvia Day,None,0,9.78E+12,2015-01-18,by Sylvia Day,CAPTIVATED BY YOU,0
 1718,Deborah Bladon,0,Deborah Bladon,None,0,9.78E+12,2015-01-18,by Deborah Bladon,GONE - PART TWO,0
@@ -1734,7 +1734,7 @@
 1732,Deborah Bladon,0,Deborah Bladon,None,0,9.78E+12,2014-11-23,by Deborah Bladon,RUIN: PART TWO,0
 1733,Ellora's Cave,0,Laurann Dohner,None,0,9.78E+12,2014-11-16,by Laurann Dohner,SMILEY,0
 1734,Jove,0,Nalini Singh,None,0,9.78E+12,2014-11-16,by Nalini Singh,ARCHANGEL'S SHADOWS,0
-1735,Avon,0,Ilona Andrews,62289241,0,9.78E+12,2014-11-16,by Ilona Andrews,BURN FOR ME,0
+1735,Avon,0,Ilona Andrews,0062289241,0,9.78E+12,2014-11-16,by Ilona Andrews,BURN FOR ME,0
 1736,Lisa Renee Jones,0,Lisa Renee Jones,None,0,A00B00O0CY3LQ,2014-11-16,by Lisa Renee Jones,"TALL, DARK AND DEADLY BOOKS 1 - 4",0
 1737,Pocket Books,0,Jude Deveraux,None,0,9.78E+12,2014-11-09,by Jude Deveraux,CHANGE OF HEART,0
 1738,Putnam,0,Stuart Woods,None,0,9.78E+12,2014-11-02,by Stuart Woods,PARIS MATCH,0
@@ -1742,13 +1742,13 @@
 1740,Grand Central Publishing,0,Jill Shalvis,None,0,9.78E+12,2014-11-02,by Jill Shalvis,ONE IN A MILLION,0
 1741,Kelley R. Martin,0,Kelley R Martin,None,0,A00B00O13WW1W,2014-11-02,by Kelley R. Martin,DOWN AND OUT,0
 1742,Dell,0,Diana Gabaldon,0440335183,0,9.78E+12,2014-11-02,by Diana Gabaldon,DRAGONFLY IN AMBER,0
-1743,Avon,0,Maya Banks,62312472,0,9.78E+12,2014-10-26,by Maya Banks,KEEP ME SAFE,0
+1743,Avon,0,Maya Banks,0062312472,0,9.78E+12,2014-10-26,by Maya Banks,KEEP ME SAFE,0
 1744,"Farrar, Straus & Giroux",0,Marilynne Robinson,0374187614,0,9.78E+12,2014-10-26,by Marilynne Robinson,LILA,0
 1745,Jessica Sorensen,0,Jessica Sorensen,None,0,A00B00I88BUTQ,2014-10-19,by Jessica Sorensen,THE RESOLUTION OF CALLIE AND KAYDEN,0
 1746,Broadway,0,Gillian Flynn,None,0,9.78E+12,2014-10-19,by Gillian Flynn,THE COMPLETE GILLIAN FLYNN,0
 1747,Gossamer,0,Melody Anne,None,0,9.78E+12,2014-10-19,by Melody Anne,HOLIDAY TREASURE,0
 1748,HTJB,0,Marie Force,None,0,9.78E+12,2014-10-19,by Marie Force,KISSES AFTER DARK,0
-1749,Morrow,0,J Lynn,62294814,0,9.78E+12,2014-10-12,by J. Lynn,STAY WITH ME,0
+1749,Morrow,0,J Lynn,0062294814,0,9.78E+12,2014-10-12,by J. Lynn,STAY WITH ME,0
 1750,Putnam,0,J D Robb,1101617276,0,9.78E+12,2014-10-12,by J. D. Robb,FESTIVE IN DEATH,0
 1751,Doubleday,0,John Grisham,0345543246,0,9.78E+12,2014-10-12,by John Grisham,SYCAMORE ROW,0
 1752,Plume,0,Jonathan Tropper,None,0,9.78E+12,2014-10-12,by Jonathan Tropper,THIS IS WHERE I LEAVE YOU,0
@@ -1759,11 +1759,11 @@
 1757,Morrow,0,Faye Kellerman,None,0,9.78E+12,2014-09-21,by Faye Kellerman,MURDER 101,0
 1758,Ace,0,Patricia Briggs,1101609508,0,9.78E+12,2014-09-21,by Patricia Briggs,SHIFTING SHADOWS,0
 1759,Grand Central,0,Jill Shalvis,1455529516,0,9.78E+12,2014-09-14,by Jill Shalvis,IT'S IN HIS KISS,0
-1760,Morrow,0,Susan Elizabeth Phillips,62106112,0,9.78E+12,2014-09-14,by Susan Elizabeth Phillips,HEROES ARE MY WEAKNESS,0
+1760,Morrow,0,Susan Elizabeth Phillips,0062106112,0,9.78E+12,2014-09-14,by Susan Elizabeth Phillips,HEROES ARE MY WEAKNESS,0
 1761,Deborah Bladon,0,Deborah Bladon,None,0,9.78E+12,2014-09-14,by Deborah Bladon,VAIN - PART THREE,0
 1762,Delacorte,0,Lee Child,0804178836,0,9.78E+12,2014-09-14,by Lee Child,NOT A DRILL,0
 1763,Knopf,0,Paulo Coelho,1101874082,0,9.78E+12,2014-09-07,by Paulo Coelho,ADULTERY,0
-1764,Morrow/HarperCollins,0,James Rollins,62194925,0,9.78E+12,2014-09-07,by James Rollins,THE 6TH EXTINCTION,0
+1764,Morrow/HarperCollins,0,James Rollins,0062194925,0,9.78E+12,2014-09-07,by James Rollins,THE 6TH EXTINCTION,0
 1765,Avon Impulse,0,Laura Kaye,None,0,9.78E+12,2014-09-07,by Laura Kaye,HARD TO HOLD ON TO,0
 1766,Ballantine,0,Debbie Macomber,None,0,9.78E+12,2014-09-07,by Debbie Macomber,LOVE LETTERS,0
 1767,Del Rey,0,Robin Hobb,0553392433,0,9.78E+12,2014-08-31,by Robin Hobb,FOOL'S ASSASSIN,0
@@ -1791,12 +1791,12 @@
 1789,Ballantine,0,Emily Giffin,034554689X,0,9.78E+12,2014-07-06,by Emily Giffin,THE ONE AND ONLY,0
 1790,Dutton,0,Linda Fairstein,None,0,9.78E+12,2014-07-06,by Linda Fairstein,TERMINAL CITY,0
 1791,Putnam,0,John Sandford,None,0,9.78E+12,2014-07-06,by John Sandford,FIELD OF PREY,0
-1792,Morrow/HarperCollins,0,J A Jance,62134698,0,9.78E+12,2014-07-06,by J. A. Jance,SECOND WATCH,0
+1792,Morrow/HarperCollins,0,J A Jance,0062134698,0,9.78E+12,2014-07-06,by J. A. Jance,SECOND WATCH,0
 1793,Gallery,0,Johanna Lindsey,1476714312,0,9.78E+12,2014-06-29,by Johanna Lindsey,STORMY PERSUASION,0
 1794,Putnam,0,Clive Cussler and Graham Brown,None,0,9.78E+12,2014-06-29,by Clive Cussler and Graham Brown,GHOST SHIP,0
 1795,Riverhead,0,Emma Straub,1101618043,0,9.78E+12,2014-06-29,by Emma Straub,THE VACATIONERS,0
-1796,Morrow/HarperCollins,0,Dorothea Benton Frank,62132520,0,9.78E+12,2014-06-29,by Dorothea Benton Frank,THE HURRICANE SISTERS,0
-1797,Morrow/HarperCollins,0,Greg Iles,62311107,0,9.78E+12,2014-06-29,by Greg Iles,NATCHEZ BURNING,0
+1796,Morrow/HarperCollins,0,Dorothea Benton Frank,0062132520,0,9.78E+12,2014-06-29,by Dorothea Benton Frank,THE HURRICANE SISTERS,0
+1797,Morrow/HarperCollins,0,Greg Iles,0062311107,0,9.78E+12,2014-06-29,by Greg Iles,NATCHEZ BURNING,0
 1798,Simon & Schuster,0,edited  David Baldacci,None,0,9.78E+12,2014-06-22,edited by David Baldacci,FACEOFF,0
 1799,Berkley,0,Marie Force,None,0,9.78E+12,2014-06-22,by Marie Force,I WANT TO HOLD YOUR HAND,0
 1800,Harlequin HQN,0,Linda Lael Miller,1460332962,0,9.78E+12,2014-06-15,by Linda Lael Miller,THE MARRIAGE PACT,0
@@ -1814,7 +1814,7 @@
 1812,Stacy Borel,0,Stacy Borel,None,0,A00B00JUC8DNK,2014-05-18,by Stacy Borel,BENDER,0
 1813,Laurelin Paige,0,Laurelin Paige,0991379640,0,9.78E+12,2014-05-18,by Laurelin Paige,THE FIXED TRILOGY,0
 1814,Berkley,0,Nora Roberts,None,0,9.78E+12,2014-05-11,by Nora Roberts,SHADOW SPELL,0
-1815,HarperCollins Publishers,0,Barbara Kingsolver,62124285,0,9.78E+12,2014-05-11,by Barbara Kingsolver,FLIGHT BEHAVIOR,0
+1815,HarperCollins Publishers,0,Barbara Kingsolver,0062124285,0,9.78E+12,2014-05-11,by Barbara Kingsolver,FLIGHT BEHAVIOR,0
 1816,Putnam,0,Stuart Woods,None,0,9.78E+12,2014-05-11,by Stuart Woods,CARNAL CURIOSITY,0
 1817,Lauren Blakely,0,Lauren Blakely,None,0,A00B00JG8FKO8,2014-05-04,by Lauren Blakely,NIGHT AFTER NIGHT,0
 1818,J.B. Salsbury,0,JB Salsbury,None,0,A00B00JBSJ4W2,2014-05-04,by  J.B. Salsbury,FIGHTING TO FORGET,0
@@ -1824,7 +1824,7 @@
 1822,New American Library,0,J R Ward,None,0,9.78E+12,2014-04-27,by J. R. Ward,THE KING,0
 1823,WGW,0,Whitney Gracia Williams,0990317005,0,9.78E+12,2014-04-27,by Whitney Gracia Williams,REASONABLE DOUBT,0
 1824,Atlantic Monthly Press,0,Donna Leon,0802192505,0,9.78E+12,2014-04-20,by Donna Leon,BY ITS COVER,0
-1825,Morrow,0,Ted Bell,62279408,0,9.78E+12,2014-04-20,by Ted Bell,WARRIORS,0
+1825,Morrow,0,Ted Bell,0062279408,0,9.78E+12,2014-04-20,by Ted Bell,WARRIORS,0
 1826,Delacorte,0,Danielle Steel,None,0,9.78E+12,2014-04-20,by Danielle Steel,POWER PLAY,0
 1827,Minotaur,0,Nevada Barr,1466841680,0,9.78E+12,2014-04-20,by Nevada Barr,DESTROYER ANGEL,0
 1828,St. Martin's Griffin,0,Kylie Scott,None,0,9.78E+12,2014-04-20,by Kylie Scott,PLAY,0
@@ -1845,7 +1845,7 @@
 1843,Steel Magnolia Press,0,"Diane Capri, J Carson Black and others",None,0,A00B00IER9DK4,2014-03-23,"by Diane Capri, J Carson Black and others",DEADLY DOZEN,0
 1844,Putnam,0,Randy Wayne White,None,0,9.78E+12,2014-03-23,by Randy Wayne White,BONE DEEP,0
 1845,Raine Miller,0,Raine Miller,None,0,A00B00HERLSLC,2014-03-16,by Raine Miller,RARE AND PRECIOUS THINGS,0
-1846,Avon,0,Laura Kaye,62267914,0,9.78E+12,2014-03-16,by Laura Kaye,HARD AS YOU CAN,0
+1846,Avon,0,Laura Kaye,0062267914,0,9.78E+12,2014-03-16,by Laura Kaye,HARD AS YOU CAN,0
 1847,Harlequin Mira,0,Susan Mallery,1460327047,0,9.78E+12,2014-03-16,by Susan Mallery,EVENING STARS,0
 1848,Signet,0,Lisa Gardner,None,0,9.78E+12,2014-03-16,by Lisa Gardner,TOUCH AND GO,0
 1849,Helen Cooper,0,JS Cooper and Helen Cooper,None,0,9.78E+12,2014-03-09,by J.S. Cooper and Helen Cooper,THE EX GAMES 2,0
@@ -1861,15 +1861,15 @@
 1859,St. Martin's Press,0,Sarah Addison Allen,1250019818,0,9.78E+12,2014-02-09,by Sarah Addison Allen,LOST LAKE,0
 1860,"Little, Brown",0,Michael Connelly,0316069507,0,9.78E+12,2014-02-09,by Michael Connelly,THE GODS OF GUILT,0
 1861,Putnam,0,Stuart Woods,None,0,9.78E+12,2014-02-09,by Stuart Woods,STANDUP GUY,0
-1862,Harper,0,Mitch Albom,62294377,0,9.78E+12,2014-02-02,by Mitch Albom,THE FIRST PHONE CALL FROM HEAVEN,0
+1862,Harper,0,Mitch Albom,0062294377,0,9.78E+12,2014-02-02,by Mitch Albom,THE FIRST PHONE CALL FROM HEAVEN,0
 1863,"Little, Brown",0,Michael Connelly,None,0,9.78E+12,2014-02-02,by Michael Connelly,SWITCHBLADE,0
 1864,Bantam,0,Janet Evanovich,0345542908,0,9.78E+12,2014-02-02,by Janet Evanovich,TAKEDOWN TWENTY,0
 1865,Laurelin Paige,0,Laurelin Paige,None,0,9.78E+12,2014-02-02,by Laurelin Paige,FOREVER WITH YOU,0
 1866,Bantam,0,Dean Koontz,0345539656,0,9.78E+12,2014-01-26,by Dean Koontz,INNOCENCE,0
-1867,Morrow,0,J Lynn,62294768,0,9.78E+12,2014-01-26,by J. Lynn,WAIT FOR YOU,0
+1867,Morrow,0,J Lynn,0062294768,0,9.78E+12,2014-01-26,by J. Lynn,WAIT FOR YOU,0
 1868,Forever,0,Jessica Sorensen,None,0,9.78E+12,2014-01-26,by Jessica Sorensen,THE DESTINY OF VIOLET & LUKE (CALLIE & KAYDEN),0
 1869,Scribner,0,Stephen King,147672766X,0,9.78E+12,2014-01-19,by Stephen King,DOCTOR SLEEP,0
-1870,Morrow,0,Joe Hill,62200593,0,9.78E+12,2014-01-19,by Joe Hill,NOS4A2,0
+1870,Morrow,0,Joe Hill,0062200593,0,9.78E+12,2014-01-19,by Joe Hill,NOS4A2,0
 1871,Berkley,0,Nora Roberts,None,0,9.78E+12,2014-01-19,by Nora Roberts,DARK WITCH,0
 1872,Riverhead,0,Khaled Hosseini,None,0,9.78E+12,2014-01-12,by Khaled Hosseini,AND THE MOUNTAINS ECHOED,0
 1873,Dutton,0,Harlan Coben,None,0,9.78E+12,2014-01-12,by Harlan Coben,SIX YEARS,0
@@ -1923,7 +1923,7 @@
 1921,Forever,0,Jessica Sorensen,1455582727,0,9.78E+12,2013-09-22,by Jessica Sorensen,BREAKING NOVA,0
 1922,Rachel Van Dyken,0,Rachel Van Dyken,None,0,9.78E+12,2013-09-15,by Rachel Van Dyken,RUIN,0
 1923,Indie Six,0,Elisabeth Naughton and others,0988986221,0,9.78E+12,2013-09-15,by Elisabeth Naughton and others,WICKED FIRSTS,0
-1924,Harper,0,Daniel Silva,62073206,0,9.78E+12,2013-09-08,by Daniel Silva,THE ENGLISH GIRL,0
+1924,Harper,0,Daniel Silva,0062073206,0,9.78E+12,2013-09-08,by Daniel Silva,THE ENGLISH GIRL,0
 1925,Putnam,0,Frederick Forsyth,None,0,9.78E+12,2013-09-08,by Frederick Forsyth,THE KILL LIST,0
 1926,Hugh Howey,0,Hugh Howey,None,0,A00B00CYNGPTG,2013-09-08,by Hugh Howey,DUST,0
 1927,Kristen Ashley,0,Kristen Ashley,None,0,A00B00E40F64M,2013-09-01,by Kristen Ashley,ROCK CHICK REVOLUTION,0
@@ -1932,7 +1932,7 @@
 1930,Emily Bestler/Atria,0,Brad Thor,1476717117,0,9.78E+12,2013-09-01,by Brad Thor,HIDDEN ORDER,0
 1931,Algonquin,0,Irene Zatko,None,0,9.78E+12,2013-08-25,by Irene Zabytko,THE SKY UNWASHED,0
 1932,Forever,0,Jessica Sorensen,None,0,9.78E+12,2013-08-25,by Jessica Sorensen,THE REDEMPTION OF CALLIE AND KAYDEN,0
-1933,Morrow/HarperCollins,0,Faye Kellerman,62121774,0,9.78E+12,2013-08-25,by Faye Kellerman,THE BEAST,0
+1933,Morrow/HarperCollins,0,Faye Kellerman,0062121774,0,9.78E+12,2013-08-25,by Faye Kellerman,THE BEAST,0
 1934,"Little, Brown & Company",0,J K Rowling,0316228583,0,9.78E+12,2013-08-25,by J. K. Rowling,THE CASUAL VACANCY,0
 1935,Morrow/HarperCollins,0,Neil Gaiman,None,0,9.78E+12,2013-08-18,by Neil Gaiman,THE OCEAN AT THE END OF THE LANE,0
 1936,Laree Bailey Press,0,H M Ward,0985547367,0,9.78E+12,2013-08-18,by H. M. Ward,THE ARRANGEMENT 9: THE FERRO FAMILY,0
@@ -1980,7 +1980,7 @@
 1978,Oak Press,0,Bella Andre,None,0,9.78194E+12,2013-03-24,by Bella Andre,ALWAYS ON MY MIND,0
 1979,Random House Publishing,0,Lara Adrian,0345532619,0,9.78035E+12,2013-03-17,by Lara Adrian,EDGE OF DAWN,0
 1980,Random House Publishing,0,Debbie Macomber,None,0,9.78035E+12,2013-03-17,by Debbie Macomber,HEARTSONG,0
-1981,HarperCollins Publishers,0,John Irving,62235184,0,9.78006E+12,2013-03-10,by John Irving,THE CIDER HOUSE RULES,0
+1981,HarperCollins Publishers,0,John Irving,0062235184,0,9.78006E+12,2013-03-10,by John Irving,THE CIDER HOUSE RULES,0
 1982,Gallery Books,0,Christina Lauren,None,0,9.78148E+12,2013-03-10,by Christina Lauren,BEAUTIFUL BASTARD,0
 1983,"Little, Brown & Company",0,James Patterson and Mark Sullivan,None,0,9.78032E+12,2013-03-10,by James Patterson and Mark Sullivan,PRIVATE BERLIN,0
 1984,Crown Publishing,0,Herman Koch,None,0,9.78039E+12,2013-03-10,by Herman Koch,THE DINNER,0
@@ -1997,7 +1997,7 @@
 1995,Revell,0,Lorena McCourtney,1441238220,0,9.78144E+12,2013-02-17,by Lorena McCourtney,DYING TO READ,0
 1996,Penguin Group,0,Sylvia Day,None,0,9.7811E+12,2013-02-10,by Sylvia Day,REFLECTED IN YOU,0
 1997,Simon & Schuster,0,Glenn Beck with Harriet Parke,1476717001,0,9.78148E+12,2013-02-03,by Glenn Beck with Harriet Parke,AGENDA 21,0
-1998,HarperCollins Publishers,0,James Rollins and Rebecca Cantrell,62235753,0,9.78006E+12,2013-01-27,by James Rollins and Rebecca Cantrell,THE BLOOD GOSPEL,0
+1998,HarperCollins Publishers,0,James Rollins and Rebecca Cantrell,0062235753,0,9.78006E+12,2013-01-27,by James Rollins and Rebecca Cantrell,THE BLOOD GOSPEL,0
 1999,Grand Central Publishing,0,James Patterson and Mark Pearson,1455515531,0,9.78146E+12,2013-01-27,by James Patterson and Mark Pearson,PRIVATE LONDON,0
 2000,Random House Publishing,0,Janet Evanovich,0345527755,0,9.78035E+12,2013-01-20,by Janet Evanovich,NOTORIOUS NINETEEN,0
 2001,Penguin Group,0,Tom Clancy with Mark Greaney,None,0,9.7811E+12,2013-01-20,by Tom Clancy with Mark Greaney,THREAT VECTOR,0
@@ -2006,7 +2006,7 @@
 2004,FaithWords,0,Wm Paul Young,145551604X,0,9.78146E+12,2013-01-06,by Wm. Paul Young,CROSS ROADS,0
 2005,Knopf Doubleday Publishing,0,Ayana Mathis,0385350287,0,9.78039E+12,2013-01-06,by Ayana Mathis,THE TWELVE TRIBES OF HATTIE,0
 2006,Hyperion Press,0,Mitch Albom,1401322786,0,9.7814E+12,2013-01-06,by Mitch Albom,THE TIME KEEPER,0
-2007,HarperCollins Publishers,0,Louise Erdrich,62065246,0,9.78006E+12,2012-12-30,by Louise Erdrich,THE ROUND HOUSE,0
+2007,HarperCollins Publishers,0,Louise Erdrich,0062065246,0,9.78006E+12,2012-12-30,by Louise Erdrich,THE ROUND HOUSE,0
 2008,Penguin Group,0,Jim Butcher,0451464400,0,9.78045E+12,2012-12-23,by Jim Butcher,COLD DAYS,0
 2009,Penguin Group,0,Ken Follett,0525952926,0,9.78053E+12,2012-12-23,by Ken Follett,WINTER OF THE WORLD,0
 2010,Penguin Group,0,Nora Roberts,None,0,9.7811E+12,2012-12-23,by Nora Roberts,THE PERFECT HOPE,0
@@ -2024,10 +2024,10 @@
 2022,M. Leighton,0,M Leighton,None,0,A00B009FG00N2,2012-11-11,by M. Leighton,DOWN TO YOU,0
 2023,S.H. Kolee,0,SH Kolee,None,0,A00B009FHSYSY,2012-11-04,by S.H. Kolee,LOVE LEFT BEHIND,0
 2024,Penguin Group,0,Ken Follett,None,0,9.7811E+12,2012-10-28,by Ken Follett,FALL OF GIANTS,0
-2025,HarperCollins Publishers,0,Dennis Lehane,62200291,0,9.78006E+12,2012-10-28,by Dennis Lehane,LIVE BY NIGHT,0
+2025,HarperCollins Publishers,0,Dennis Lehane,0062200291,0,9.78006E+12,2012-10-28,by Dennis Lehane,LIVE BY NIGHT,0
 2026,Grand Central Publishing,0,Sandra Brown,1455501530,0,9.78146E+12,2012-10-28,by Sandra Brown,LOW PRESSURE,0
 2027,Knopf Doubleday Publishing,0,Jo Nesbo,030796048X,0,9.78031E+12,2012-10-28,by Jo Nesbo,PHANTOM,0
-2028,HarperCollins Publishers,0,Stephanie Laurens,62066269,0,9.78006E+12,2012-10-14,by Stephanie Laurens,THE LADY RISKS ALL,0
+2028,HarperCollins Publishers,0,Stephanie Laurens,0062066269,0,9.78006E+12,2012-10-14,by Stephanie Laurens,THE LADY RISKS ALL,0
 2029,Penguin Group,0,J D Robb,None,0,9.7811E+12,2012-10-14,by J. D. Robb,DELUSION IN DEATH,0
 2030,Random House Publishing,0,Maya Banks,0345536037,0,9.78035E+12,2012-10-14,by Maya Banks,NEVER SEDUCE A SCOT,0
 2031,Penguin Group,0,Stuart Woods,None,0,9.7811E+12,2012-10-14,by Stuart Woods,SEVERE CLEAR,0
@@ -2052,7 +2052,7 @@
 2050,Random House Publishing,0,Dean Koontz,0345533585,0,9.78035E+12,2012-09-09,by Dean Koontz,ODD APOCALYPSE,0
 2051,"Little, Brown & Company",0,James Patterson and Michael Ledwidge,0316097470,0,9.78032E+12,2012-09-02,by James Patterson and Michael Ledwidge,"I, MICHAEL BENNETT",0
 2052,Penguin Group,0,W E B Griffin and William E Butterworth IV,None,0,9.7811E+12,2012-08-26,by W. E. B. Griffin and William E. Butterworth IV,THE SPYMASTERS,0
-2053,HarperCollins Publishers,0,Daniel Silva,62073176,0,9.78006E+12,2012-08-26,by Daniel Silva,THE FALLEN ANGEL,0
+2053,HarperCollins Publishers,0,Daniel Silva,0062073176,0,9.78006E+12,2012-08-26,by Daniel Silva,THE FALLEN ANGEL,0
 2054,Random House Publishing,0,Danielle Steel,0345533569,0,9.78035E+12,2012-08-26,by Danielle Steel,FRIENDS FOREVER,0
 2055,HarperCollins Publishers,0,Lynsay Sands,None,0,9.78006E+12,2012-08-19,by Lynsay Sands,THE LADY IS A VAMP,0
 2056,Grand Central Publishing,0,Jill Shalvis,1455503703,0,9.78146E+12,2012-08-19,by Jill Shalvis,FOREVER AND A DAY,0
@@ -2067,7 +2067,7 @@
 2065,Penguin Group,0,Linda Fairstein,None,0,9.7811E+12,2012-07-29,by Linda Fairstein,NIGHT WATCH,0
 2066,"Little, Brown & Company",0,Elin Hilderbrand,0316202479,0,9.78032E+12,2012-07-22,by Elin Hilderbrand,SUMMERLAND,0
 2067,"Little, Brown & Company",0,James Patterson and Maxine Paetro,0316097489,0,9.78032E+12,2012-07-22,by James Patterson and Maxine Paetro,11TH HOUR,0
-2068,HarperCollins Publishers,0,James Rollins,62194909,0,9.78006E+12,2012-07-22,by James Rollins,BLOODLINE,0
+2068,HarperCollins Publishers,0,James Rollins,0062194909,0,9.78006E+12,2012-07-22,by James Rollins,BLOODLINE,0
 2069,Grand Central Publishing,0,David Baldacci,0446573000,0,9.78045E+12,2012-07-22,by David Baldacci,THE INNOCENT,0
 2070,Random House Publishing,0,Karen Thompson Walker,0679644385,0,9.78068E+12,2012-07-22,by Karen Thompson Walker,THE AGE OF MIRACLES,0
 2071,HQN,0,Gena Showalter,None,0,9.78146E+12,2012-07-15,by Gena Showalter,WICKED NIGHTS,0
@@ -2099,8 +2099,8 @@
 2097,Penguin Group,0,Nora Roberts,0515150630,0,9.78052E+12,2012-04-29,by Nora Roberts,CHASING FIRE,0
 2098,New American Library,0,J R Ward,None,0,9.7811E+12,2012-04-22,by J. R. Ward,LOVER REBORN,0
 2099,Delacorte,0,Lee Child,044024630X,0,9.78044E+12,2012-04-22,by Lee Child,THE AFFAIR,0
-2100,HarperCollins Publishers,0,Jacqueline Winspear,62049577,0,9.78006E+12,2012-04-15,by Jacqueline Winspear,ELEGY FOR EDDIE,0
-2101,HarperCollins Publishers,0,Kerrelyn Sparks,62096605,0,9.78006E+12,2012-04-15,by Kerrelyn Sparks,WANTED: UNDEAD OR ALIVE,0
+2100,HarperCollins Publishers,0,Jacqueline Winspear,0062049577,0,9.78006E+12,2012-04-15,by Jacqueline Winspear,ELEGY FOR EDDIE,0
+2101,HarperCollins Publishers,0,Kerrelyn Sparks,0062096605,0,9.78006E+12,2012-04-15,by Kerrelyn Sparks,WANTED: UNDEAD OR ALIVE,0
 2102,Atria Books,0,Jodi Picoult,1439149690,0,9.78144E+12,2012-04-15,by Jodi Picoult,LONE WOLF,0
 2103,Simon & Schuster,0,Lisa Lutz,1416539204,0,9.78142E+12,2012-04-15,by Lisa Lutz,THE SPELLMAN FILES,0
 2104,Random House Publishing,0,Jonathan Kellerman,0345532171,0,9.78035E+12,2012-04-08,by Jonathan Kellerman,VICTIMS,0
@@ -2122,7 +2122,7 @@
 2120,Knopf Doubleday Publishing,0,P D James,0307959856,0,9.78031E+12,2012-02-19,by P. D. James,DEATH COMES TO PEMBERLEY,0
 2121,Pocket Books,0,Cindy Gerard,1451606869,0,9.78145E+12,2012-02-19,by Cindy Gerard,LAST MAN STANDING,0
 2122,Random House Publishing,0,TÃ©a Obreht,0385343841,0,9.78039E+12,2012-02-19,by TÃ©a Obreht,THE TIGER'S WIFE,0
-2123,HarperCollins Publishers,0,Elmore Leonard,62119486,0,9.78006E+12,2012-02-12,by Elmore Leonard,RAYLAN,0
+2123,HarperCollins Publishers,0,Elmore Leonard,0062119486,0,9.78006E+12,2012-02-12,by Elmore Leonard,RAYLAN,0
 2124,St. Martin's Press,0,Iris Johansen,0312651287,0,9.78031E+12,2012-02-12,by Iris Johansen,BONNIE,0
 2125,Barbara Freethy,0,Barbara Freethy,None,0,A00B004Q9TI54,2012-02-12,by Barbara Freethy,GOLDEN LIES,0
 2126,Penguin Group,0,Elizabeth George,0525952586,0,9.78053E+12,2012-02-05,by Elizabeth George,BELIEVING THE LIE,0
@@ -2133,7 +2133,7 @@
 2131,Penguin Group,0,Stuart Woods,None,0,9.7811E+12,2012-01-08,by Stuart Woods,D.C. DEAD,0
 2132,Penguin Group,0,WEB Griffin and William E Butterworth IV,None,0,9.7811E+12,2012-01-08,by W.E.B. Griffin and William E. Butterworth IV,COVERT WARRIORS,0
 2133,"Little, Brown & Company",0,Chad Harbach,0316126691,0,9.78032E+12,2012-01-01,by Chad Harbach,THE ART OF FIELDING,0
-2134,HarperCollins Publishers,0,Michael Crichton and Richard Preston,60873027,0,9.78006E+12,2012-01-01,by Michael Crichton and Richard Preston,MICRO,0
+2134,HarperCollins Publishers,0,Michael Crichton and Richard Preston,0060873027,0,9.78006E+12,2012-01-01,by Michael Crichton and Richard Preston,MICRO,0
 2135,Penguin Group,0,Barbara Freethy,None,0,A00B004MYFSD4,2011-12-25,by Barbara Freethy,ALL SHE EVER WANTED,0
 2136,"Little, Brown & Company",0,James Patterson and Richard DiLallo,None,0,9.78032E+12,2011-12-25,by James Patterson and Richard DiLallo,THE CHRISTMAS WEDDING,0
 2137,Random House Publishing,0,Diana Gabaldon,0385337515,0,9.78039E+12,2011-12-25,by Diana Gabaldon,THE SCOTTISH PRISONER,0
@@ -2148,7 +2148,7 @@
 2146,"Little, Brown & Company",0,Michael Connelly,None,0,9.78032E+12,2011-11-27,by Michael Connelly,ANGLE OF INVESTIGATION,0
 2147,Penguin Group,0,John Sandford,None,0,9.7811E+12,2011-11-27,by John Sandford,SHOCK WAVE,0
 2148,Houghton Mifflin Harcourt,0,Umberto Eco,0547577532,0,9.78055E+12,2011-11-27,by Umberto Eco,THE PRAGUE CEMETERY,0
-2149,HarperCollins Publishers,0,Gregory Maguire,60548940,0,9.78006E+12,2011-11-20,by Gregory Maguire,OUT OF OZ,0
+2149,HarperCollins Publishers,0,Gregory Maguire,0060548940,0,9.78006E+12,2011-11-20,by Gregory Maguire,OUT OF OZ,0
 2150,Chris Culver,0,Chris Culver,None,0,A00B004M18ZRS,2011-11-20,by Chris Culver,THE ABBEY,0
 2151,Mira,0,Ron Carr,0778312712,0,9.78078E+12,2011-11-20,by Robyn Carr,BRING ME HOME FOR CHRISTMAS,0
 2152,Harlequin,0,Diana Palmer,1459215230,0,9.78146E+12,2011-11-13,by Diana Palmer,WYOMING TOUGH,0
@@ -2184,8 +2184,8 @@
 2182,Simon & Schuster,0,Jennifer Weiner,1451617747,0,9.78145E+12,2011-08-28,by Jennifer Weiner,THEN CAME YOU,0
 2183,"Little, Brown",0,Michael Connelly,0759525773,0,9.78076E+12,2011-08-21,by Michael Connelly,THE BLACK ECHO,0
 2184,Random House,0,Danielle Steel,0440423317,0,9.78044E+12,2011-08-21,by Danielle Steel,HAPPY BIRTHDAY,0
-2185,HarperCollins,0,Ann Patchett,62049828,0,9.78006E+12,2011-08-14,by Ann Patchett,STATE OF WONDER,0
-2186,HarperCollins,0,Loretta Chase,61753815,0,9.78006E+12,2011-08-14,by Loretta Chase,LORD OF SCOUNDRELS,0
+2185,HarperCollins,0,Ann Patchett,0062049828,0,9.78006E+12,2011-08-14,by Ann Patchett,STATE OF WONDER,0
+2186,HarperCollins,0,Loretta Chase,0061753815,0,9.78006E+12,2011-08-14,by Loretta Chase,LORD OF SCOUNDRELS,0
 2187,Grand Central,0,David Baldacci,0446583170,0,9.78045E+12,2011-08-07,by David Baldacci,ONE SUMMER,0
 2188,Grand Central,0,Eric Van Lustbader,0446564443,0,9.78045E+12,2011-08-07,by Eric Van Lustbader,THE BOURNE DOMINION,0
 2189,Penguin Group,0,Tom Clancy with Peter Telep,None,0,9.7811E+12,2011-07-31,by Tom Clancy with Peter Telep,AGAINST ALL ENEMIES,0
@@ -2217,12 +2217,12 @@
 2216,Random House,0,Jonathan Kellerman,0345524381,0,9.78035E+12,2011-05-01,by Jonathan Kellerman,MYSTERY,0
 2217,Penguin Group,0,Harlan Coben,None,0,9.7811E+12,2011-05-01,by Harlan Coben,LIVE WIRE,0
 2218,Penguin Group,0,J R Ward,0451233166,0,9.78045E+12,2011-04-24,by J. R. Ward,LOVER UNLEASHED,0
-2219,HarperCollins,0,Diane Mott Davidson,61348155,0,9.78006E+12,2011-04-24,by Diane Mott Davidson,CRUNCH TIME,0
+2219,HarperCollins,0,Diane Mott Davidson,0061348155,0,9.78006E+12,2011-04-24,by Diane Mott Davidson,CRUNCH TIME,0
 2220,HarperCollins,0,Kerrelyn Sparks,006208531X,0,9.78006E+12,2011-04-17,by Kerrelyn Sparks,VAMPIRE MINE,0
 2221,Simon & Schuster,0,Mary Higgins Clark,1439180989,0,9.78144E+12,2011-04-17,by Mary Higgins Clark,THE SHADOW OF YOUR SMILE,0
 2222,Penguin Group,0,Clive Cussler with Jack Du Brul,None,0,9.7811E+12,2011-04-17,by Clive Cussler with Jack Du Brul,THE JUNGLE,0
 2223,Random House,0,Suzanne Brockmann,0345521242,0,9.78035E+12,2011-04-10,by Suzanne Brockmann,BREAKING THE RULES,0
-2224,HarperCollins,0,Jacqueline Winspear,61727679,0,9.78006E+12,2011-04-10,by Jacqueline Winspear,A LESSON IN SECRETS,0
+2224,HarperCollins,0,Jacqueline Winspear,0061727679,0,9.78006E+12,2011-04-10,by Jacqueline Winspear,A LESSON IN SECRETS,0
 2225,"Little, Brown",0,James Patterson and Michael Ledwidge,0316129186,0,9.78032E+12,2011-04-10,by James Patterson and Michael Ledwidge,TICK TOCK,0
 2226,Knopf Doubleday,0,Maeve Binchy,0307595161,0,9.78031E+12,2011-04-03,by Maeve Binchy,MINDING FRANKIE,0
 2227,Penguin Group,0,Patrick Rothfuss,0756404738,0,9.78076E+12,2011-04-03,by Patrick Rothfuss,THE WISE MAN'S FEAR,0
