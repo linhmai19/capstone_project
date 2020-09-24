@@ -23,11 +23,11 @@ The already existing dataset was obtained from the website called data.world. Th
 
   * Existing Dataset from data.world: 
   
-  <a href="https://data.world/typhon/new-york-times-bestsellers-from-2011-to-2018">New York Times Bestsellers from 2011 to 2018</a>
+    <a href="https://data.world/typhon/new-york-times-bestsellers-from-2011-to-2018">New York Times Bestsellers from 2011 to 2018</a>
 
   * Book Review Statistics Data from Goodreads API:
 
-  <a href="https://www.goodreads.com/api/index#book.review_counts">Book Review Statistics given a list of ISBNs</a>
+    <a href="https://www.goodreads.com/api/index#book.review_counts">Book Review Statistics given a list of ISBNs</a>
 
 ### 2) Scrubbing or Data Cleaning 
 
