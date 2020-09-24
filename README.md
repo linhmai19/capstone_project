@@ -1,4 +1,4 @@
-# BEST SELLING BOOKS
+# NEW YORK TIMES BEST SELLING BOOKS ANALYSIS
 
 ![](images/books.jpg)
 
@@ -14,6 +14,8 @@
   * EDA and Classification Modeling: <a href="https://github.com/linhmai19/capstone_project/blob/master/eda_clf_modeling.ipynb">eda_clf_modeling.ipynb</a>
 
 ## Methodology
+
+Throughout this project, I am using various components of data science process, depending on the research questions at hand. However, the overall project from start to finish adheres to the OSEMN framework:
 
 ![](images/osemn.png)
 
