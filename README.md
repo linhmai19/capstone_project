@@ -65,4 +65,4 @@ By calculating metrics, conducting confusion matrices, and plotting Receiver Ope
 
 - Oral Presenation: <a href="">Best Selling Books Oral Presentation</a>
 
-- Blog Post: <a href="">Best Selling Books</a>
+- Blog Post: <a href="https://medium.com/@linhnp.mai/new-york-times-bestseller-analysis-e349a79b9734">Best Selling Books</a>
