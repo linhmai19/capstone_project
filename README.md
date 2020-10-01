@@ -61,7 +61,7 @@ By calculating metrics, conducting confusion matrices, and plotting Receiver Ope
 ![](images/roc_merged.jpg)
 
 ## Presentation
-- Presentation Slides: <a href="">Best Selling Books Presentation</a>
+- Presentation Slides: <a href="https://github.com/linhmai19/capstone_project/blob/master/bestsellers_presentation.pdf">Best Selling Books Presentation</a>
 
 - Oral Presenation: <a href="">Best Selling Books Oral Presentation</a>
 
