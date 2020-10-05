@@ -38,6 +38,7 @@ Because of the heavy imbalance between two classes, the dataset was sliced to th
   * Cleaned dataset for the New York Times Bestseller list: <a href="https://github.com/linhmai19/capstone_project/blob/master/cleaned_books.csv">cleaned_books.csv</a>
   * Dataset from Goodreads API: <a href="https://github.com/linhmai19/capstone_project/blob/master/review_stats.csv">review_stats.csv</a>
   * Further cleaning and merging the two datasets into one dataframe: <a href="https://github.com/linhmai19/capstone_project/blob/master/merge_data.csv">merge_data.csv</a>
+  * Further cleaning the original dataset for modeling and comparation with the merged dateset: <a href="https://github.com/linhmai19/capstone_project/blob/master/cleaned_books_modeling.csv">cleaned_books_modeling.csv</a>
 
 ### 3) Exploring or EDA
 
@@ -63,6 +64,6 @@ By calculating metrics, conducting confusion matrices, and plotting Receiver Ope
 ## Presentation
 - Presentation Slides: <a href="https://github.com/linhmai19/capstone_project/blob/master/bestsellers_presentation.pdf">Best Selling Books Presentation</a>
 
-- Oral Presenation: <a href="">Best Selling Books Oral Presentation</a>
+- Oral Presenation: <a href="https://github.com/linhmai19/capstone_project/blob/master/NYTB_oral_presentation.mp4">Best Selling Books Oral Presentation</a>
 
 - Blog Post: <a href="https://medium.com/@linhnp.mai/new-york-times-bestseller-analysis-e349a79b9734">Best Selling Books</a>
